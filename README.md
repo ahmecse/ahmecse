@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png](https://valohai.com/blog/the-three-roles-in-an-ml-team/3-roles-2-technologies.png))](https://rishavchanda.io)
+[![MasterHead](https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png)
 <h1 align="center">Hi 👋, I'm AHMED SHMELS MUHE</h1>
 <h3 align="center">A passionate Machine Learning & Data science Engineer from Ethiopia</h3>
 
