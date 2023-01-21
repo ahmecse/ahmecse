@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science,Machine learning,and Deep Learning projects**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmecse/](https://www.linkedin.com/in/ahmecse/)
+- 👨‍💻 All of my projects are available at [https://github.com/ahmecse/](https://github.com/ahmecse/)
 
 - 💬 Ask me about **Python,Data Science,Machine & deep learning**
 
