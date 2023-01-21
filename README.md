@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Customer Complaints based Automatic Ticket Classification for Products and Services using Machine Learning and Deep Learning Techniques**
 
-- 🌱 I’m currently learning **Data Science & Machine learning**
+- 🌱 I’m currently learning **Data Science,Machine learning,Computer Vision and Deep Learning techniques using PyTorch and tensorFlow**
 
-- 👯 I’m looking to collaborate on **Hourly Indian Air Quality Analysis and Prediction using Machine Learning & Deep Learning Techniques**
+- 👯 I’m looking to collaborate on **Data Science,Machine learning,Computer Vision and Deep Learning projects**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmecse/](https://www.linkedin.com/in/ahmecse/)
 
-- 💬 Ask me about **Machine and deep learning**
+- 💬 Ask me about **Python,Computer Vision,Machine and deep learning**
 
 - 📫 How to reach me **ahmecse@gmail.com**
 
