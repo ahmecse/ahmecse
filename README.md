@@ -1,4 +1,4 @@
-[![MasterHead](https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png)](https://rishavchanda.io)
+[![MasterHead]([https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png](https://valohai.com/blog/the-three-roles-in-an-ml-team/3-roles-2-technologies.png))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm AHMED SHMELS MUHE</h1>
 <h3 align="center">A passionate Machine Learning & Data science Engineer from Ethiopia</h3>
 
@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Customer Complaints based Automatic Ticket Classification for Products and Services using Machine Learning and Deep Learning Techniques**
 
-- 🌱 I’m currently learning **Data Science,Machine learning,Computer Vision and Deep Learning techniques using PyTorch and tensorFlow**
+- 🌱 I’m currently learning **Data Science & Machine learning**
 
-- 👯 I’m looking to collaborate on **Data Science,Machine learning,Computer Vision and Deep Learning projects**
+- 👯 I’m looking to collaborate on **Hourly Indian Air Quality Analysis and Prediction using Machine Learning & Deep Learning Techniques**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmecse/](https://www.linkedin.com/in/ahmecse/)
 
-- 💬 Ask me about **Python,Computer Vision,Machine and deep learning**
+- 💬 Ask me about **Machine and deep learning**
 
 - 📫 How to reach me **ahmecse@gmail.com**
 
