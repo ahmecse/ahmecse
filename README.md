@@ -1,4 +1,4 @@
-[![MasterHead](https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png)
+![MasterHead](https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png)
 
 <h1 align="center">Hi 👋, I'm AHMED SHMELS MUHE</h1>
 
@@ -10,19 +10,20 @@
 
 - 🔭 I’m currently working on **Customer Complaints based Automatic Ticket Classification for Products and Services using Machine Learning and Deep Learning Techniques**
 
-- 🌱 I’m currently learning **Data Science & Machine learning**
+- 🌱 I’m currently learning **Data Science,Machine learning,Computer Vision and Deep Learning techniques using PyTorch & Tenserflow**
 
-- 👯 I’m looking to collaborate on **Hourly Indian Air Quality Analysis and Prediction using Machine Learning & Deep Learning Techniques**
+- 👯 I’m looking to collaborate on **Data Science,Machine learning,and Deep Learning projects**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmecse/](https://www.linkedin.com/in/ahmecse/)
 
-- 💬 Ask me about **Machine and deep learning**
+- 💬 Ask me about **Python,Data Science,Machine & deep learning**
 
 - 📫 How to reach me **ahmecse@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmecse/](https://www.linkedin.com/in/ahmecse/)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/ahmed_shmels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmed_shmels" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmecse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmecse" height="30" width="40" /></a>
