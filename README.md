@@ -1,5 +1,7 @@
 [![MasterHead](https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png)
+
 <h1 align="center">Hi 👋, I'm AHMED SHMELS MUHE</h1>
+
 <h3 align="center">A passionate Machine Learning & Data science Engineer from Ethiopia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </p>
