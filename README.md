@@ -1,63 +1,85 @@
-<!-- Header Image -->
-<img src="https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png" alt="MasterHead" style="width:100%; height:auto;" />
+<!-- ====== Custom Banner ====== -->
+<section align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 60px 0; color: #fff;">
+  <h1 style="font-size: 3rem; margin: 0;">Hi 👋, I'm <span style="color: #ff79c6;">AHMED SHMELS MUHE</span></h1>
+  <p style="font-size: 1.5rem; margin: 10px 0;">Researcher in Causality · Reinforcement Learning · RL for LLMs</p>
+</section>
 
-<h1 align="center">Hi 👋, I'm AHMED SHMELS MUHE</h1>
-<h3 align="center">A Researcher Interested in Causality, RL, and RL for LLMs</h3>
+<!-- ====== Header & GIF ====== -->
+<div align="center" style="display: flex; align-items: center; justify-content: space-around; padding: 40px 0;">
+  <img src="https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png" alt="MasterHead" style="max-width: 45%; height: auto;" />
+  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</div>
 
-<!-- Animated Coding GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-<!-- LinkedIn Follow Button -->
-<p align="left">
+<!-- ====== Connect & Follow ====== -->
+<section align="center">
   <a href="https://www.linkedin.com/in/ahmecse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Follow" />
   </a>
+  <a href="mailto:ahmecse@gmail.com" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email Contact" />
+  </a>
+</section>
+
+<hr />
+
+<!-- ====== About Me ====== -->
+## 🔎 About Me  
+I’m currently a researcher at **MILA Qubic AI Institute** working on reinforcement learning techniques for large language models. Passionate about building causal frameworks and enhancing RL algorithms.  
+
+- 🔭 **Current Focus:** RL for LLMs  
+- 👯 **Open to Collaborate:** RL & LLM research projects  
+- 💬 **Knowledge Areas:** Machine Learning, NLP, Reinforcement Learning  
+
+<hr />
+
+<!-- ====== Featured Projects ====== -->
+## 🚀 Featured Projects
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ahmecse/RL4LLM">
+        <img src="https://raw.githubusercontent.com/ahmecse/RL4LLM/main/docs/overview.png" alt="RL4LLM" width="100" />
+        <br /><strong>RL4LLM Framework</strong>
+      </a>
+      <p>A toolkit for integrating reinforcement learning into LLM fine-tuning workflows.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ahmecse/causal-nlp">
+        <img src="https://raw.githubusercontent.com/ahmecse/causal-nlp/master/assets/diagram.png" alt="Causal NLP" width="100" />
+        <br /><strong>Causal-NLP</strong>
+      </a>
+      <p>Library for causal inference experiments in natural language processing.</p>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ahmecse/rl-research">
+        <img src="https://raw.githubusercontent.com/ahmecse/rl-research/main/assets/rl.png" alt="RL Research" width="100" />
+        <br /><strong>RL-Research Suite</strong>
+      </a>
+      <p>Collection of RL environments and baseline algorithms for benchmarking.</p>
+    </td>
+  </tr>
+</table>
+
+<hr />
+
+<!-- ====== Skills ====== -->
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
 </p>
 
-<!-- About Section -->
-- 🔭 I’m currently working at **MILA Qubic AI Institute** focusing on RL for LLMs  
-- 👯 I’m looking to collaborate on **Reinforcement Learning and LLM Projects**  
-- 💬 Ask me about **ML, NLP & RL**  
-- 📫 How to reach me: **ahmecse@gmail.com**  
-- 👨‍💻 Check out my projects: [GitHub](https://github.com/ahmecse/)  
-- 📄 Know more about my experience: [LinkedIn](https://www.linkedin.com/in/ahmecse/)
+<hr />
 
-<!-- Connect with Me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/ahme_cse" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/ahmecse" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/ahmecse" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ahmecse" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-</p>
-
-<!-- GitHub Stats -->
-<p align="left">
+<!-- ====== GitHub Stats ====== -->
+## 📊 GitHub Stats
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmecse&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
+  <br />
   <img src="https://github-readme-stats.vercel.app/api?username=ahmecse&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
+  <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmecse" alt="GitHub Streak Stats" />
 </p>
