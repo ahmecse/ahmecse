@@ -58,6 +58,23 @@ I’m currently a researcher at **MILA Qubic AI Institute** working on reinforce
       <p>Collection of RL environments and baseline algorithms for benchmarking.</p>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://via.placeholder.com/100?text=MSc+Project" alt="MSc Project" width="100" />
+        <br /><strong>MSc Thesis</strong>
+      </a>
+      <p>Placeholder URL for my Master’s research project.</p>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://via.placeholder.com/100?text=BSc+Project" alt="BSc Project" width="100" />
+        <br /><strong>BSc Final Year</strong>
+      </a>
+      <p>Placeholder URL for my Bachelor’s project.</p>
+    </td>
+    <td></td>
+  </tr>
 </table>
 
 <hr />
