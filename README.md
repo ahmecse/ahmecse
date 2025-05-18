@@ -2,15 +2,15 @@
 <img src="https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png" alt="MasterHead" style="width:100%; height:auto;" />
 
 <h1 align="center">Hi 👋, I'm AHMED SHMELS MUHE</h1>
-<h3 align="center">A Researcher Interested in Causality, RL, and RL for LLMs</h3>
+<h3 align="center">A Researcher Interested in Causality, Reinforcement Learning, and RL for LLMs</h3>
 
 <!-- Animated Coding GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<!-- Twitter Follow Button -->
+<!-- LinkedIn Follow Button -->
 <p align="left">
-  <a href="https://twitter.com/ahme_cse" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ahme_cse?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  <a href="https://www.linkedin.com/in/ahmecse/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Follow" />
   </a>
 </p>
 
