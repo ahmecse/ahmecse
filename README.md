@@ -2,7 +2,7 @@
 <img src="https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png" alt="MasterHead" style="width:100%; height:auto;" />
 
 <h1 align="center">Hi 👋, I'm AHMED SHMELS MUHE</h1>
-<h3 align="center">A Researcher Interested in Causality, Reinforcement Learning, and RL for LLMs</h3>
+<h3 align="center">A Researcher Interested in Causality, RL, and RL for LLMs</h3>
 
 <!-- Animated Coding GIF -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
