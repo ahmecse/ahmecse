@@ -73,7 +73,13 @@ I’m currently a researcher at **MILA Qubic AI Institute** working on reinforce
       </a>
       <p>Placeholder URL for my Bachelor’s project.</p>
     </td>
-    <td></td>
+    <td align="center">
+      <a href="#">
+        <img src="https://via.placeholder.com/100?text=CV+Project" alt="Computer Vision Project" width="100" />
+        <br /><strong>Computer Vision Project</strong>
+      </a>
+      <p>Placeholder URL for my Computer Vision project.</p>
+    </td>
   </tr>
 </table>
 
