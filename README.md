@@ -1,148 +1,135 @@
-<header>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!--   <title>Ahmed Shmels Muhe – Portfolio</title> -->
+</head>
+<body style="margin: 0; font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333;">
+
   <!-- ====== Custom Banner ====== -->
-  <section align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 60px 0; color: #fff;">
-    <h1 style="font-size: 3rem; margin: 0;">Hi 👋, I'm <span style="color: #ff79c6;">AHMED SHMELS MUHE</span></h1>
-    <p style="font-size: 1.5rem; margin: 10px 0;">
-  Research Interests: Causality in RL · RL · RL for LLMs · Multi-Agent RL · Multi-Agent Reasoning, Representation Learning
+  <header>
+    <section align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 60px 0; color: #fff;">
+      <h1 style="font-size: 3rem; margin: 0;">Hi 👋, I'm <span style="color: #ff79c6;">Ahmed Shmels Muhe</span></h1>
+      <p style="font-size: 1.5rem; margin: 10px 0;">
+        Research Interests: Causality in RL; RL; RL for LLMs; Multi-Agent RL; Multi-Agent Reasoning; Representation Learning
+      </p>
+    </section>
+  </header>
+
+  <!-- ====== Header & GIF ====== -->
+  <main>
+    <div align="center" style="display: flex; align-items: center; justify-content: space-around; padding: 40px 0; flex-wrap: wrap;">
+      <img src="https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png" alt="Data Science illustration" style="max-width: 45%; height: auto;" />
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer coding animation" width="300" />
+    </div>
+
+   ---
+
+<!-- Contact Section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmecse/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ahmecse@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.kaggle.com/ahmecse" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Top%205%25-brightgreen?style=for-the-badge&logo=kaggle" />
+  </a>
 </p>
 
-  </section>
-</header>
+---
 
-<main>
-  <!-- ====== Header & GIF ====== -->
-  <div align="center" style="display: flex; align-items: center; justify-content: space-around; padding: 40px 0; flex-wrap: wrap;">
-    <img src="https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png" alt="Data-Science Personas Illustration" style="max-width: 45%; height: auto;" />
-    <img alt="Programmer coding animation" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-  </div>
+## 🔎 About Me
 
-  <!-- ====== Connect & Follow ====== -->
-  <section align="center">
-    <a href="https://www.linkedin.com/in/ahmecse/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" alt="Follow on LinkedIn" />
-    </a>
-    <a href="mailto:ahmecse@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-left: 10px;">
-      <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Contact via Email" />
-    </a>
-    <a href="https://www.kaggle.com/ahmecse" target="_blank" rel="noopener noreferrer" style="margin-left: 10px;">
-      <img src="https://img.shields.io/badge/Kaggle-Top%205%25-brightgreen?style=for-the-badge&logo=kaggle" alt="Top 5% Kaggle" />
-    </a>
-  </section>
+I’m an M.Tech graduate in Data Science from IIT Madras (2024), and hold a B.Tech in Computer Science and Engineering from VIT (2022). I previously worked as a Project Associate at RBCDSAI, IIT Madras, under the guidance of Prof. B. Ravindran.
 
-  <hr />
+My research interests focus on reinforcement learning (RL), especially its applications to large language models (LLMs).
 
-  <!-- ====== About Me ====== -->
-  <section>
-    <h2>🔎 About Me</h2>
-    <p>I’m currently a researcher at <strong>MILA Qubic AI Institute</strong> working on reinforcement learning techniques for large language models. Passionate about building causal frameworks and enhancing RL algorithms.</p>
-    <ul>
-      <li>🔭 <strong>Current Focus:</strong> RL for LLMs</li>
-      <li>👯 <strong>Open to Collaborate:</strong> RL &amp; LLM research projects</li>
-      <li>💬 <strong>Knowledge Areas:</strong> Machine Learning, NLP, Reinforcement Learning</li>
-    </ul>
-  </section>
+* 🔭 **Current Focus:** Reinforcement Learning for Large Language Models (RL for LLMs)  
+* 🤝 **Open to Collaboration:** Projects involving RL, LLMs, Causality, and Multi-Agent Systems  
+* 💬 **Expertise Areas:** Machine Learning · Deep Learning · Computer Vision · Natural Language Processing (NLP) · Reinforcement Learning
 
-  <hr />
 
-  <!-- ====== Featured Projects ====== -->
-  <section>
-    <h2>🚀 Featured Projects</h2>
-    <div style="overflow-x:auto;">
-      <table>
-        <tr>
-          <td class="project-card">
-            <a href="https://github.com/ahmecse/RL4LLM" target="_blank" rel="noopener noreferrer">
-              <img src="https://raw.githubusercontent.com/ahmecse/RL4LLM/main/docs/overview.png" alt="RL4LLM Framework overview" width="100" />
-              <br /><strong>RL4LLM Framework</strong>
-            </a>
-            <p>A toolkit for integrating reinforcement learning into LLM fine-tuning workflows.</p>
-          </td>
-          <td class="project-card">
-            <a href="https://github.com/ahmecse/causal-nlp" target="_blank" rel="noopener noreferrer">
-              <img src="https://raw.githubusercontent.com/ahmecse/causal-nlp/master/assets/diagram.png" alt="Causal-NLP library diagram" width="100" />
-              <br /><strong>Causal-NLP</strong>
-            </a>
-            <p>Library for causal inference experiments in natural language processing.</p>
-          </td>
-          <td class="project-card">
-            <a href="https://github.com/ahmecse/rl-research" target="_blank" rel="noopener noreferrer">
-              <img src="https://raw.githubusercontent.com/ahmecse/rl-research/main/assets/rl.png" alt="RL-Research Suite icon" width="100" />
-              <br /><strong>RL-Research Suite</strong>
-            </a>
-            <p>Collection of RL environments and baseline algorithms for benchmarking.</p>
-          </td>
-        </tr>
-        <tr>
-          <td class="project-card">
-            <a href="#" target="_blank" rel="noopener noreferrer">
-              <img src="https://via.placeholder.com/100?text=MSc+Project" alt="MSc Thesis placeholder" width="100" />
-              <br /><strong>MSc Thesis</strong>
-            </a>
-            <p>Placeholder URL for my Master’s research project.</p>
-          </td>
-          <td class="project-card">
-            <a href="#" target="_blank" rel="noopener noreferrer">
-              <img src="https://via.placeholder.com/100?text=BSc+Project" alt="BSc Final Year placeholder" width="100" />
-              <br /><strong>BSc Final Year</strong>
-            </a>
-            <p>Placeholder URL for my Bachelor’s project.</p>
-          </td>
-          <td class="project-card">
-            <a href="#" target="_blank" rel="noopener noreferrer">
-              <img src="https://via.placeholder.com/100?text=CV+Project" alt="Computer Vision Project placeholder" width="100" />
-              <br /><strong>Computer Vision Project</strong>
-            </a>
-            <p>Placeholder URL for my Computer Vision project.</p>
-          </td>
-        </tr>
-      </table>
-    </div>
-  </section>
+---
 
-  <hr />
+## 🚀 Featured Projects
 
-  <!-- ====== Call to Action ====== -->
-  <section align="center">
-    <p>👉 Feel free to drop me a line at <a href="mailto:ahmecse@gmail.com">ahmecse@gmail.com</a> or connect on <a href="https://linkedin.com/in/ahmecse" target="_blank" rel="noopener noreferrer">LinkedIn</a>!</p>
-  </section>
+| [![RL4LLM](https://raw.githubusercontent.com/ahmecse/RL4LLM/main/docs/overview.png)](https://github.com/ahmecse/RL4LLM) | [![Causal-NLP](https://raw.githubusercontent.com/ahmecse/causal-nlp/master/assets/diagram.png)](https://github.com/ahmecse/causal-nlp) | [![RL Research](https://raw.githubusercontent.com/ahmecse/rl-research/main/assets/rl.png)](https://github.com/ahmecse/rl-research) |
+|:--:|:--:|:--:|
+| **[RL4LLM Framework](https://github.com/ahmecse/RL4LLM)**<br/>Toolkit for RL-based LLM fine-tuning | **[Causal-NLP](https://github.com/ahmecse/causal-nlp)**<br/>Causal inference tools for NLP | **[RL-Research Suite](https://github.com/ahmecse/rl-research)**<br/>Benchmark RL environments |
 
-  <hr />
+| ![MSc Project](https://via.placeholder.com/100?text=MSc+Project) | ![BSc Project](https://via.placeholder.com/100?text=BSc+Project) | ![CV Project](https://via.placeholder.com/100?text=CV+Project) |
+|:--:|:--:|:--:|
+| **MSc Thesis**<br/>Coming soon... | **BSc Final Year**<br/>Coming soon... | **Computer Vision Project**<br/>Coming soon... |
 
-  <!-- ====== Skills ====== -->
-  <section>
-    <h2>🛠️ Languages &amp; Tools</h2>
-    <p align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-    </p>
-  </section>
+---
 
-  <hr />
+## 🛠️ Languages & Tools
 
-  <!-- ====== GitHub Stats ====== -->
-  <section>
-    <h2>📊 GitHub Stats</h2>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmecse&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api?username=ahmecse&show_icons=true&locale=en" alt="GitHub Stats" />
-      <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmecse" alt="GitHub Streak Stats" />
-    </p>
-  </section>
-</main>
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
+  
+  <!-- Version Control / Big Data -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" width="40" alt="Hadoop" />
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="40" alt="Spark" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968925.png" width="40" alt="Kafka" />
 
-<footer>
-  <!-- ====== Responsive CSS & Hover ====== -->
-  <style>
-    @media (max-width: 600px) {
-      div[align="center"] { flex-direction: column; }
-      div[align="center"] img { max-width: 80%; margin-bottom: 20px; }
-    }
-    .project-card { transition: transform 0.2s, box-shadow 0.2s; padding: 10px; }
-    .project-card:hover { transform: scale(1.05); box-shadow: 0 4px 8px rgba(0,0,0,0.2); }
-  </style>
-</footer>
+  
+  <!-- Visualization Tools -->
+
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="40" alt="Power BI" />
+
+
+
+
+  
+  <!-- Deep Learning & NLP -->
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch" />
+  <img src="https://keras.io/img/logo.png" width="40" alt="Keras" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" alt="Hugging Face" />
+  
+  <!-- Cloud & Security -->
+
+
+  
+  <!-- Frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" alt="jQuery" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" alt="Flask" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="ExpressJS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" alt="Bootstrap" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmecse&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmecse&show_icons=true&locale=en" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmecse" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 📬 Contact
+
+👉 Feel free to reach out at **[ahmecse@gmail.com](mailto:ahmecse@gmail.com)**  or connect with me on [LinkedIn](https://linkedin.com/in/ahmecse)!
+
