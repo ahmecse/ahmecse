@@ -2,7 +2,10 @@
   <!-- ====== Custom Banner ====== -->
   <section align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 60px 0; color: #fff;">
     <h1 style="font-size: 3rem; margin: 0;">Hi 👋, I'm <span style="color: #ff79c6;">AHMED SHMELS MUHE</span></h1>
-    <p style="font-size: 1.5rem; margin: 10px 0;">Researcher in Causality · Reinforcement Learning · RL for LLMs</p>
+    <p style="font-size: 1.5rem; margin: 10px 0;">
+  Research Interests: Causality in Reinforcement Learning · Reinforcement Learning · RL for LLMs · Multi-Agent RL · Multi-Agent Reasoning, Representation Learning
+</p>
+
   </section>
 </header>
 
