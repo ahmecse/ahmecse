@@ -45,7 +45,7 @@ My research interests focus on reinforcement learning (RL), especially its appli
 
 ### Reinforcement Learning (RL)
 
-*   **RL Assignments (IITM CS6700):** Implementations including SARSA, Q-Learning, Hierarchical RL, Dueling DQN, and REINFORCE.
+*   **RL Assignments (IITM CS6700):** Implementations including SARSA, Q-Learning, Hierarchical RL (SMDP & Intra-Option Q-Learning) , Dueling DQN, and REINFORCE.
     *   [Assignment 1 (SARSA/Q-Learning)](https://github.com/ahmecse/RL-Assignments-1-IITM-CS6700): <span style="font-size: 0.85em;">Comparison of SARSA & Q-Learning in Grid World variants.</span>
     *   [Assignment 2 (Dueling DQN/REINFORCE)](https://github.com/ahmecse/RL-Assignments-2-IITM-CS6700): <span style="font-size: 0.85em;">Training Dueling DQN variants and Monte Carlo REINFORCE.</span>
     *   [Assignment 3 (Hierarchical RL)](https://github.com/ahmecse/RL-Assignments-3-IITM-CS6700): <span style="font-size: 0.85em;">Hierarchical RL in Taxi-v3 using SMDP & Intra-Option Q-Learning.</span>
@@ -70,9 +70,9 @@ My research interests focus on reinforcement learning (RL), especially its appli
 
 ### Deep Learning (DL)
 
-*   [DL Assignment 1 (IITM CS6910)](https://github.com/ahmecse/DL-Assignments-1-IITM-CS6910): <span style="font-size: 0.85em;">Implemented a feedforward neural network from scratch with multiple optimizers and hyperparameter tuning.</span>
-*   [DL Assignment 2 (IITM CS6910)](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910): <span style="font-size: 0.85em;">Built a CNN from scratch, performed hyperparameter optimization, and applied interpretability techniques.</span>
-*   [DL Assignment 3 (IITM CS6910)](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910): <span style="font-size: 0.85em;">Developed sequence-to-sequence models (RNN/LSTM/GRU) with attention for English-to-Malayalam transliteration.</span>
+*   [DL Assignment 1 (IITM CS6910)](https://github.com/ahmecse/DL-Assignments-1-IITM-CS6910): <span style="font-size: 0.60em;">Implemented a feedforward neural network from scratch with multiple optimizers and hyperparameter tuning.</span>
+*   [DL Assignment 2 (IITM CS6910)](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910): <span style="font-size: 0.60em;">Built a CNN from scratch, performed hyperparameter optimization, and applied interpretability techniques.</span>
+*   [DL Assignment 3 (IITM CS6910)](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910): <span style="font-size: 0.60em;">Developed sequence-to-sequence models (RNN/LSTM/GRU) with attention for English-to-Malayalam transliteration.</span>
 
 ### Computer Vision (CV)
 
