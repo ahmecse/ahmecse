@@ -49,13 +49,10 @@ My research interests focus on reinforcement learning (RL), especially its appli
     *   [Assignment 1 (SARSA/Q-Learning)](https://github.com/ahmecse/RL-Assignments-1-IITM-CS6700): Comparison of SARSA & Q-Learning in Grid World variants.
     *   [Assignment 2 (Dueling DQN/REINFORCE)](https://github.com/ahmecse/RL-Assignments-2-IITM-CS6700): Training Dueling DQN variants and Monte Carlo REINFORCE.
     *   [Assignment 3 (Hierarchical RL)](https://github.com/ahmecse/RL-Assignments-3-IITM-CS6700): Hierarchical RL in Taxi-v3 using SMDP & Intra-Option Q-Learning.
-*   **[RL4LLM Framework](https://github.com/ahmecse/RL4LLM):** Toolkit for RL-based Large Language Model fine-tuning.
-*   **[RL-Research Suite](https://github.com/ahmecse/rl-research):** Collection of benchmark Reinforcement Learning environments and algorithms.
 
 ### Natural Language Processing (NLP)
 
 *   **[NLP Information Retrieval System (IITM CS6370)](https://github.com/ahmecse/CS6370-NLP-IR-System-Project-IITM):** Project focusing on building an Information Retrieval system.
-*   **[Causal-NLP](https://github.com/ahmecse/causal-nlp):** Development of causal inference tools tailored for Natural Language Processing tasks.
 
 ### Machine Learning (ML)
 
