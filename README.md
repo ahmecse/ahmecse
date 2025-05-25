@@ -1,4 +1,4 @@
-# Ahmed Shmels Muhe | M.Tech Data Scientist
+# Ahmed  | M.Tech DS IIT Madras, B.Tech CS VIT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmecse/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ahmecse-blue?style=flat-square&logo=linkedin"></a>
