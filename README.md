@@ -1,153 +1,61 @@
-<!-- ====== Custom Banner ====== -->
-<section align="center" style="background: linear-gradient(135deg, #1f1c2c, #928dab); padding: 60px 0; color: #fff;">
-  <h1 style="font-size: 3rem; margin: 0;">Hi 👋, I'm <span style="color: #ff79c6;">Ahmed Shmels Muhe</span></h1>
-  <p style="font-size: 1.5rem; margin: 10px 0;">
-    Research Interests: Causality in RL; RL; RL for LLMs; Multi-Agent RL; Multi-Agent Reasoning; Representation Learning
-  </p>
-</section>
+<!-- markdownlint-disable MD033 MD041 -->
+# Ahmed Shmels Muhe
 
-<!-- ====== Header & GIF ====== -->
-<div align="center" style="display: flex; align-items: center; justify-content: space-around; padding: 40px 0; flex-wrap: wrap;">
-  <img src="https://www.arangodb.com/wp-content/uploads/2022/04/Data-Science-Personas-icons.png" alt="Data Science illustration" style="max-width: 45%; height: auto;" />
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Programmer coding animation" width="300" />
-</div>
+**Research Interests:** Causality in RL, Reinforcement Learning (RL), RL for Large Language Models (LLMs), Multi-Agent RL, Multi-Agent Reasoning, Representation Learning.
 
 ---
 
-<!-- Contact Section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmecse/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:ahmecse@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.kaggle.com/ahmecse" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Top%205%25-brightgreen?style=for-the-badge&logo=kaggle" />
-  </a>
-</p>
+## About Me
+
+I hold an M.Tech in Data Science from IIT Madras (2024) and a B.Tech in Computer Science and Engineering from VIT (2022). My professional experience includes working as a Project Associate at the Robert Bosch Centre for Data Science and Artificial Intelligence (RBCDSAI), IIT Madras, where I was guided by Prof. B. Ravindran.
+
+My research is centered on reinforcement learning (RL), with a particular emphasis on its application to large language models (LLMs). My current focus is specifically on Reinforcement Learning for Large Language Models (RL for LLMs).
+
+I am keen on collaborating on projects involving RL, LLMs, Causality, and Multi-Agent Systems. My core expertise lies in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Reinforcement Learning.
 
 ---
 
-## 🔎 About Me
+## Past Projects
 
-I'm an M.Tech graduate in Data Science from IIT Madras (2024), and hold a B.Tech in Computer Science and Engineering from VIT (2022). I previously worked as a Project Associate at RBCDSAI, IIT Madras, under the guidance of Prof. B. Ravindran.
+My project portfolio spans several key areas within AI and computer science, demonstrating practical application and research exploration.
 
-My research interests focus on reinforcement learning (RL), especially its applications to large language models (LLMs).
+In **Reinforcement Learning (RL)**, I have completed comprehensive coursework assignments from IITM (CS6700), implementing algorithms such as SARSA, Q-Learning, Hierarchical RL using SMDP & Intra-Option Q-Learning, Dueling DQN, and REINFORCE. These implementations involved comparisons in Grid World variants, training advanced DQN models, and applying hierarchical techniques in environments like Taxi-v3. You can find details in the respective repositories for [Assignment 1](https://github.com/ahmecse/RL-Assignments-1-IITM-CS6700), [Assignment 2](https://github.com/ahmecse/RL-Assignments-2-IITM-CS6700), and [Assignment 3](https://github.com/ahmecse/RL-Assignments-3-IITM-CS6700). Beyond coursework, I developed the [RL4LLM Framework](https://github.com/ahmecse/RL4LLM), a toolkit specifically designed for fine-tuning Large Language Models using RL. Additionally, I maintain the [RL-Research Suite](https://github.com/ahmecse/rl-research), a collection of benchmark RL environments and algorithms aimed at facilitating research.
 
-*   🔭 **Current Focus:** Reinforcement Learning for Large Language Models (RL for LLMs)  
-*   🤝 **Open to Collaboration:** Projects involving RL, LLMs, Causality, and Multi-Agent Systems  
-*   💬 **Expertise Areas:** Machine Learning · Deep Learning · Computer Vision · Natural Language Processing (NLP) · Reinforcement Learning
+Within **Natural Language Processing (NLP)**, my work includes the [NLP Information Retrieval System](https://github.com/ahmecse/CS6370-NLP-IR-System-Project-IITM), a project undertaken during my studies at IITM (CS6370) focused on building an effective IR system. I have also explored the intersection of causality and NLP through the [Causal-NLP](https://github.com/ahmecse/causal-nlp) project, developing causal inference tools tailored for NLP tasks.
 
----
+My engagement with core **Machine Learning (ML)** concepts is demonstrated through a series of mathematical essays that delve into the theoretical underpinnings of fundamental machine learning models. These essays cover [Support Vector Machines](https://github.com/ahmecse/A-Mathematical-Essay-on-Support-Vector-Machine), [Random Forests](https://github.com/ahmecse/A-Mathematical-essay-on-Random-Forest), [Decision Trees](https://github.com/ahmecse/A-Mathematical-essay-on-decision-trees), [Naive Bayes Classifiers](https://github.com/ahmecse/Mathematical-essay-on-naive-Bayes-classifier), [Logistic Regression](https://github.com/ahmecse/Mathematical-essay-on-Logistic-Regression), and [Linear Regression](https://github.com/ahmecse/A-Mathematical-essay-on-linear-regression). On the practical side, I applied advanced regression techniques in the [Advanced Regression - House Prices](https://github.com/ahmecse/Advanced-Regression-for-House-Price-Prediction) project to tackle the challenge of house price prediction.
 
-## 🚀 Past Projects
+In the domain of **Deep Learning (DL)**, my IITM coursework (CS6910) involved hands-on assignments. [Assignment 1](https://github.com/ahmecse/DL-Assignments-1-IITM-CS6910) required implementing a feedforward neural network from scratch, complete with various optimizers and hyperparameter tuning. For [Assignment 2](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910), I built a Convolutional Neural Network (CNN) from the ground up, optimized its hyperparameters, and explored model interpretability methods. [Assignment 3](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910) focused on sequence-to-sequence modeling, where I developed RNN, LSTM, and GRU models incorporating attention mechanisms for the task of English-to-Malayalam transliteration.
 
-### Reinforcement Learning (RL)
-
-*   **RL Assignments (IITM CS6700):** Implementations including SARSA, Q-Learning, Hierarchical RL (SMDP & Intra-Option Q-Learning) , Dueling DQN, and REINFORCE.
-    *   [Assignment 1 (SARSA/Q-Learning)](https://github.com/ahmecse/RL-Assignments-1-IITM-CS6700): <span style="font-size: 0.85em;">Comparison of SARSA & Q-Learning in Grid World variants.</span>
-    *   [Assignment 2 (Dueling DQN/REINFORCE)](https://github.com/ahmecse/RL-Assignments-2-IITM-CS6700): <span style="font-size: 0.85em;">Training Dueling DQN variants and Monte Carlo REINFORCE.</span>
-    *   [Assignment 3 (Hierarchical RL)](https://github.com/ahmecse/RL-Assignments-3-IITM-CS6700): <span style="font-size: 0.85em;">Hierarchical RL in Taxi-v3 using SMDP & Intra-Option Q-Learning.</span>
-*   **[RL4LLM Framework](https://github.com/ahmecse/RL4LLM):** <span style="font-size: 0.85em;">Toolkit for RL-based Large Language Model fine-tuning.</span>
-*   **[RL-Research Suite](https://github.com/ahmecse/rl-research):** <span style="font-size: 0.85em;">Collection of benchmark Reinforcement Learning environments and algorithms.</span>
-
-### Natural Language Processing (NLP)
-
-*   **[NLP Information Retrieval System (IITM CS6370)](https://github.com/ahmecse/CS6370-NLP-IR-System-Project-IITM):** <span style="font-size: 0.85em;">Project focusing on building an Information Retrieval system.</span>
-*   **[Causal-NLP](https://github.com/ahmecse/causal-nlp):** <span style="font-size: 0.85em;">Development of causal inference tools tailored for Natural Language Processing tasks.</span>
-
-### Machine Learning (ML)
-
-*   **Mathematical Essays on ML Algorithms:** <span style="font-size: 0.85em;">In-depth mathematical explorations of fundamental ML models.</span>
-    *   [Support Vector Machine](https://github.com/ahmecse/A-Mathematical-Essay-on-Support-Vector-Machine): <span style="font-size: 0.85em;">Mathematical essay on SVMs.</span>
-    *   [Random Forest](https://github.com/ahmecse/A-Mathematical-essay-on-Random-Forest): <span style="font-size: 0.85em;">Mathematical essay on Random Forests.</span>
-    *   [Decision Trees](https://github.com/ahmecse/A-Mathematical-essay-on-decision-trees): <span style="font-size: 0.85em;">Mathematical essay on Decision Trees.</span>
-    *   [Naive Bayes Classifier](https://github.com/ahmecse/Mathematical-essay-on-naive-Bayes-classifier): <span style="font-size: 0.85em;">Mathematical essay on Naive Bayes.</span>
-    *   [Logistic Regression](https://github.com/ahmecse/Mathematical-essay-on-Logistic-Regression): <span style="font-size: 0.85em;">Mathematical essay on Logistic Regression.</span>
-    *   [Linear Regression](https://github.com/ahmecse/A-Mathematical-essay-on-linear-regression): <span style="font-size: 0.85em;">Mathematical essay on Linear Regression.</span>
-*   **[Advanced Regression - House Prices](https://github.com/ahmecse/Advanced-Regression-for-House-Price-Prediction):** <span style="font-size: 0.85em;">Application of advanced regression techniques for house price prediction.</span>
-
-### Deep Learning (DL)
-
-*   [DL Assignment 1 (IITM CS6910)](https://github.com/ahmecse/DL-Assignments-1-IITM-CS6910): <span style="font-size: 0.60em;">Implemented a feedforward neural network from scratch with multiple optimizers and hyperparameter tuning.</span>
-*   [DL Assignment 2 (IITM CS6910)](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910): <span style="font-size: 0.60em;">Built a CNN from scratch, performed hyperparameter optimization, and applied interpretability techniques.</span>
-*   [DL Assignment 3 (IITM CS6910)](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910): <span style="font-size: 0.60em;">Developed sequence-to-sequence models (RNN/LSTM/GRU) with attention for English-to-Malayalam transliteration.</span>
-
-### Computer Vision (CV)
-
-*   **[BSc Thesis - COVID-19 CXR Classification](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning):** <span style="font-size: 0.85em;">Classification of COVID-19 from Chest X-Rays using Transfer Learning.</span>
-*   **YOLO Object Detection:** <span style="font-size: 0.85em;">Projects utilizing YOLO models for object detection tasks.</span>
-    *   [Finding Cars from Aerial Images (YOLO-NAS/YOLOv8)](https://github.com/ahmecse/Find-Cars-from-Aerial-Images-Using-YOLO-NAS-YOLOV8): <span style="font-size: 0.85em;">Using YOLO-NAS and YOLOv8 to detect cars in aerial imagery.</span>
-    *   [Custom Dataset Object Detection/Segmentation/Classification (YOLOv8)](https://github.com/ahmecse/Ultralytics-YOLOv8-Object-Detection-Model---Detection-Segmentation-and-Classification-on-Custom-Data): <span style="font-size: 0.85em;">Applying YOLOv8 for detection, segmentation, and classification on custom datasets.</span>
-*   **[GreenVine - Early Plant Disease Detection](https://github.com/ahmecse/GreenVine-Early-Plant-Disease-Detection):** <span style="font-size: 0.85em;">Computer vision project for early detection of plant diseases.</span>
-*   **[Digit Recogniser](https://github.com/ahmecse/Digit-recogniser-computer-vision-):** <span style="font-size: 0.85em;">A computer vision project for recognizing handwritten digits.</span>
+My work in **Computer Vision (CV)** includes my Bachelor's thesis, [COVID-19 CXR Classification](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning), which utilized Transfer Learning techniques for classifying COVID-19 based on Chest X-Ray images. I have also worked extensively with YOLO (You Only Look Once) models for object detection. One project involved [Finding Cars from Aerial Images](https://github.com/ahmecse/Find-Cars-from-Aerial-Images-Using-YOLO-NAS-YOLOV8) using both YOLO-NAS and YOLOv8. Another applied [YOLOv8 for detection, segmentation, and classification on custom datasets](https://github.com/ahmecse/Ultralytics-YOLOv8-Object-Detection-Model---Detection-Segmentation-and-Classification-on-Custom-Data). Further projects include [GreenVine](https://github.com/ahmecse/GreenVine-Early-Plant-Disease-Detection), aimed at early plant disease detection, and a [Digit Recogniser](https://github.com/ahmecse/Digit-recogniser-computer-vision-) for identifying handwritten digits.
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
-  
-  <!-- Version Control / Big Data -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" alt="GitHub" />
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" width="40" alt="Hadoop" />
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" width="40" alt="Spark" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968925.png" width="40" alt="Kafka" />
+My technical toolkit includes proficiency across a range of programming languages, frameworks, and technologies essential for data science, machine learning, and software development.
 
-  
-  <!-- Visualization Tools -->
-
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" width="40" alt="Power BI" />
-
-
-
-
-  
-  <!-- Deep Learning & NLP -->
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" alt="TensorFlow" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" alt="PyTorch" />
-  <img src="https://keras.io/img/logo.png" width="40" alt="Keras" />
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" alt="Hugging Face" />
-  
-  <!-- Cloud & Security -->
-
-
-  
-  <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" alt="jQuery" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" alt="Flask" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="ExpressJS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" alt="Bootstrap" />
-</p>
+**Programming Languages:** Python, Java, C++, JavaScript, PHP, HTML5, CSS3
+**Databases:** MySQL, MongoDB
+**Version Control:** Git, GitHub
+**Big Data Technologies:** Hadoop, Spark, Kafka
+**Machine Learning & Deep Learning:** TensorFlow, PyTorch, Keras, Hugging Face Transformers
+**Web Development:** jQuery, React, Node.js, Flask, ExpressJS, Bootstrap
+**Data Visualization:** Power BI
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmecse&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmecse&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmecse" alt="GitHub Streak Stats" />
-</p>
+For a visual overview of my coding activity and language usage, you can view my GitHub statistics below. These include my most frequently used languages, overall contribution stats, and current commit streak.
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ahmecse&show_icons=true&locale=en&layout=compact)](https://github.com/ahmecse)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmecse&show_icons=true&locale=en)](https://github.com/ahmecse)
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmecse)](https://github.com/ahmecse)
 
 ---
 
-## 📬 Contact
+## Contact
 
-👉 Feel free to reach out at **[ahmecse@gmail.com](mailto:ahmecse@gmail.com)**  or connect with me on [LinkedIn](https://linkedin.com/in/ahmecse)!
+I am always open to connecting with fellow researchers, engineers, and potential collaborators. You can reach me directly via email at [ahmecse@gmail.com](mailto:ahmecse@gmail.com). You are also welcome to connect with me on [LinkedIn](https://www.linkedin.com/in/ahmecse/) or view my profile and contributions on [Kaggle](https://www.kaggle.com/ahmecse), where I am ranked in the top 5%.
+
