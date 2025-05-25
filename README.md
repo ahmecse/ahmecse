@@ -31,31 +31,46 @@ Highly motivated Data Scientist with an M.Tech from IIT Madras, specializing in 
 
 ## ✨ Featured Projects
 
-Here are some highlights of my work. You can find more on my [Repositories Tab](https://github.com/ahmecse?tab=repositories)!
+### Thesis
 
-1.  **Reinforcement Fine-Tuning LLMs with GRPO** ([Repo](https://github.com/ahmecse/Reinforcement-Fine-Tuning-LLMs-with-GRPO))
-    *   **Description:** Explored Reinforcement Fine-Tuning (RFT) using GRPO (Generalized Reward Policy Optimization) to adapt LLMs for complex reasoning tasks (math, coding). This approach enables models to develop optimal strategies beyond mimicking supervised fine-tuning (SFT) examples.
-    *   **Tech Stack:** Python, PyTorch, RL, LLMs, GRPO
-    *   **Keywords:** `rlft` `grpo` `llms` `reinforcement-learning` `fine-tuning`
+*   **M.Tech Thesis: DNF‑Net: A DL Approach for Advancing Breast Cancer Detection in Histopathology Images**
+    *   Engineered DNF‑Net, a hybrid framework integrating symbolic (fuzzy logic) & subsymbolic architectures (Xception, InceptionV3, DenseNet‑169), achieving 98% accuracy (↑5% vs SOTA) on BreakHis & BACH datasets. Reduced misdiagnosis by 12% using fuzzy reasoning.
+*   **B.Tech Thesis: COVID-19 Classification from CXR Images** ([Repo](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning))
+    *   Applied Transfer Learning techniques using pre-trained CNN models to classify COVID-19 from Chest X-Ray (CXR) images.
+    *   *Keywords: computer-vision, deep-learning, transfer-learning, covid-19, cxr, image-classification*
+---
 
-2.  **Hierarchical Reinforcement Learning Assignments (IITM CS6700)** ([Repo](https://github.com/ahmecse/RL-Assignments-3-IITM-CS6700))
-    *   **Description:** Implemented and evaluated Hierarchical RL techniques (SMDP Q-Learning, Intra-Option Q-Learning) in the Taxi-v3 environment. Analyzed the impact of option design on performance, sample efficiency, and policy quality.
-    *   **Tech Stack:** Python, RL (Hierarchical RL, Q-Learning), OpenAI Gym
-    *   **Keywords:** `hierarchical-rl` `smdp` `intra-option-q-learning` `reinforcement-learning` `taxi-v3`
+### RL (Reinforcement Learning)
 
-3.  **Deep Learning Sequence-to-Sequence Modeling (IITM CS6910)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910))
-    *   **Description:** Developed and compared sequence-to-sequence models (RNN, LSTM, GRU) with attention mechanisms for English-to-Malayalam transliteration. Implemented models from scratch and performed hyperparameter tuning.
-    *   **Tech Stack:** Python, PyTorch, Deep Learning (RNN, LSTM, GRU, Attention), NLP
-    *   **Keywords:** `seq2seq` `attention-mechanism` `rnn` `lstm` `gru` `transliteration` `nlp`
+*   **Reinforcement Fine-Tuning LLMs with GRPO** ([Repo](https://github.com/ahmecse/Reinforcement-Fine-Tuning-LLMs-with-GRPO))
+    *   Explored Reinforcement Fine-Tuning (RFT) using GRPO to adapt LLMs for complex reasoning tasks (math, coding).
+    *   *Tech Stack: Python, PyTorch, RL, LLMs, GRPO*
+    *   *Keywords: rlft, grpo, llms, reinforcement-learning, fine-tuning*
+*   **Hierarchical Reinforcement Learning Assignments (IITM CS6700)** ([Repo](https://github.com/ahmecse/RL-Assignments-3-IITM-CS6700))
+    *   Implemented and evaluated Hierarchical RL techniques (SMDP Q-Learning, Intra-Option Q-Learning) in the Taxi-v3 environment.
+    *   *Tech Stack: Python, RL (Hierarchical RL, Q-Learning), OpenAI Gym*
+    *   *Keywords: hierarchical-rl, smdp, intra-option-q-learning, reinforcement-learning, taxi-v3*
+---
+### NLP (Natural Language Processing)
 
-4.  **BSc Thesis: COVID-19 Classification from CXR Images** ([Repo](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning))
-    *   **Description:** Applied Transfer Learning techniques using pre-trained CNN models (e.g., VGG, ResNet) to classify COVID-19 from Chest X-Ray (CXR) images, achieving high accuracy.
-    *   **Tech Stack:** Python, TensorFlow/Keras, Deep Learning (CNNs), Computer Vision, Transfer Learning
-    *   **Keywords:** `computer-vision` `deep-learning` `transfer-learning` `covid-19` `cxr` `image-classification`
+*   **Deep Learning Sequence-to-Sequence Modeling (IITM CS6910)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910))
+    *   Developed and compared sequence-to-sequence models (RNN, LSTM, GRU) with attention mechanisms for English-to-Malayalam transliteration.
+    *   *Tech Stack: Python, PyTorch, Deep Learning (RNN, LSTM, GRU, Attention), NLP*
+    *   *Keywords: seq2seq, attention-mechanism, rnn, lstm, gru, transliteration, nlp*
+---
+### CV (Computer Vision)
 
-5.  **Mathematical Essays on ML Algorithms** ([SVM Repo](https://github.com/ahmecse/A-Mathematical-Essay-on-Support-Vector-Machine), [More...](https://github.com/ahmecse?tab=repositories&q=Mathematical-essay))
-    *   **Description:** Authored a series of in-depth mathematical explorations of fundamental Machine Learning algorithms, including SVM, Random Forests, Decision Trees, Naive Bayes, Logistic Regression, and Linear Regression, demonstrating a strong theoretical foundation.
-    *   **Keywords:** `machine-learning` `theory` `mathematics` `svm` `random-forest` `decision-trees`
+*(Note: The Thesis projects heavily involve CV but are categorized under "Thesis" as primary.)*
+---
+### DL (Deep Learning)
+
+*(Note: Several projects utilize DL (Thesis, NLP, RL Fine-tuning) but are categorized more specifically above.)*
+---
+### ML Part (Machine Learning Fundamentals/Theory)
+
+*   **Mathematical Essays on ML Algorithms** ([SVM Repo](https://github.com/ahmecse/A-Mathematical-Essay-on-Support-Vector-Machine), [More...](https://github.com/ahmecse?tab=repositories&q=Mathematical-essay))
+    *   Authored a series of in-depth mathematical explorations of fundamental Machine Learning algorithms (SVM, Random Forests, Decision Trees, etc.).
+    *   *Keywords: machine-learning, theory, mathematics, svm, random-forest, decision-trees*
 
 ---
 
