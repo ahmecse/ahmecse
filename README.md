@@ -59,31 +59,30 @@ Highly motivated Data Scientist with an M.Tech from IIT Madras, specializing in 
     *   *Tech Stack: Python, RL (TD Learning, Q-Learning, SARSA), NumPy, Matplotlib*
     *   *Keywords: temporal-difference, sarsa, q-learning, gridworld, reinforcement-learning*
 ---
+### DL (Deep Learning)
+
+*   **Feedforward Neural Networks from Scratch (IITM CS6910 PA1)** ([Repo](https://github.com/ahmecse/DL-Assignments-1-IITM-CS6910))  
+    *   Built an end-to-end NumPy-only FNN with full backpropagation, integrating six optimizers (SGD, Momentum, NAG, RMSProp, Adam, Nadam), four activations (sigmoid, tanh, ReLU, softmax), dual losses (MSE, Cross-Entropy), Xavier & random weight initialization, L1/L2 regularization, early stopping, and W&B-driven hyperparameter sweeps on Fashion-MNIST.  
+    *   *Tech Stack: Python, NumPy, Matplotlib, Seaborn, Scikit-learn, Weights & Biases*  
+    *   *Keywords: feedforward-NN, backpropagation, optimizers, activation-functions, initialization, regularization, hyperparameter-tuning*
+
+*   **Convolutional Neural Networks (IITM CS6910 PA2)** ([Repo](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910))  
+    *   Engineered a five-layer CNN from scratch in TensorFlow/Keras with Bayesian W&B sweeps over filter counts, kernel sizes, batch norm, dropout, and data augmentation; visualized learned filters, feature maps, and applied guided backpropagation for interpretability on image classification.  
+    *   *Tech Stack: Python, TensorFlow/Keras, OpenCV, Weights & Biases*  
+    *   *Keywords: CNN, hyperparameter-optimization, data-augmentation, filter-visualization, guided-backpropagation, interpretability*
+
+*   **Sequence-to-Sequence Learning & Attention Mechanisms (IITM CS6910 PA3)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910))  
+    *   Developed character-level seq2seq transliteration models in PyTorch using vanilla RNN, LSTM & GRU on the Aksharantar English–Malayalam dataset; integrated Bahdanau & Luong attention, conducted W&B sweeps over embedding sizes, hidden dims, layers, dropout, teacher forcing, and visualized attention heatmaps to analyze alignment.  
+    *   *Tech Stack: Python, PyTorch, Weights & Biases*  
+    *   *Keywords: seq2seq, attention-mechanisms, RNN, LSTM, GRU, transliteration, encoder-decoder, attention-heatmaps*
+---
+
 ### NLP (Natural Language Processing)
 
 *   **Deep Learning Sequence-to-Sequence Modeling (IITM CS6910)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910))
     *   Developed and compared sequence-to-sequence models (RNN, LSTM, GRU) with attention mechanisms for English-to-Malayalam transliteration.
     *   *Tech Stack: Python, PyTorch, Deep Learning (RNN, LSTM, GRU, Attention), NLP*
     *   *Keywords: seq2seq, attention-mechanism, rnn, lstm, gru, transliteration, nlp*
----
-### CV (Computer Vision)
-
-*(Note: The Thesis projects heavily involve CV but are categorized under "Thesis" as primary.)*
----
-### DL (Deep Learning)
-*   **Feedforward Neural Networks from Scratch (IITM CS6910 PA1)** ([Repo](https://github.com/ahmecse/DL-Assignments-1-IITM-CS6910))
-    *   Built a complete FNN from scratch using only NumPy & implementing 6 optimization algorithms (SGD, Momentum, Nesterov, RMSProp, Adam, Nadam), multiple activation functions (sigmoid, tanh, ReLU, softmax), loss functions (MSE, Cross-Entropy), weight initialization strategies (Xavier, Random), regularization(L1,L2), and Weights & Biases integration for hyperparameter tuning.
-    *   *Tech Stack: Python, NumPy, Matplotlib, Seaborn, Scikit-learn, Weights & Biases*
-    *   *Keywords: feedforward-NN, backpropagation, optimization-algorithms, activation-functions, weight-initialization, regularization, hyperparameter-tuning*
-  *   **Convolutional Neural Networks (IITM CS6910 PA2)** ([Repo](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910))  
-      *   Engineered CNN from scratch, performing Bayesian hyperparameter sweeps via Weights & Biases over filter counts, kernel sizes, batch normalization, dropout rates, and data augmentation pipelines. 
-      *   *Tech Stack: Python, TensorFlow/Keras, OpenCV, Weights & Biases*  
-      *   *Keywords: convolutional-neural-networks, cnn, hyperparameter-optimization, data-augmentation, filter-visualization, guided-backpropagation, interpretability*
-
-*   **Sequence-to-Sequence Learning & Attention Mechanisms (IITM CS6910 PA3)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910))  
-    *   Built character-level seq2seq transliteration models in PyTorch using vanilla RNN, LSTM, and GRU cells on the Aksharantar English–Malayalam dataset. 
-    *   *Tech Stack: Python, PyTorch, Weights & Biases*  
-    *   *Keywords: sequence-to-sequence, attention-mechanisms, rnn, lstm, gru, transliteration, encoder-decoder, attention-heatmaps*
 ---
 ### ML Part (Machine Learning Fundamentals/Theory)
 
