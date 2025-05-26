@@ -43,11 +43,11 @@ Highly motivated Data Scientist with an M.Tech from IIT Madras, specializing in 
 ### RL (Reinforcement Learning)
 
 *   **Reinforcement Fine-Tuning LLMs with GRPO** ([Repo](https://github.com/ahmecse/Reinforcement-Fine-Tuning-LLMs-with-GRPO))
-    *   Explored RFT using GRPO to adapt LLMs for complex reasoning and strategic tasks, with a practical demonstration on a Wordle-style guessing game using the Qwen 2.5 7B Instruct model
+     *   Investigated the efficacy of GRPO for RFT of LLMs, adapting models for complex reasoning and strategic tasks (demonstrated via a Wordle-style game with Qwen 2.5 7B).
     *   *Tech Stack: Python, PyTorch, RL, LLMs, GRPO*
     *   *Keywords: rlft, grpo, llms, reinforcement-learning, fine-tuning*
 *   **Hierarchical Reinforcement Learning (IITM CS6700 PA3)** ([Repo](https://github.com/ahmecse/RL-Assignments-3-IITM-CS6700))
-    *   Implemented and evaluated Hierarchical RL techniques (SMDP Q-Learning, Intra-Option Q-Learning) in the Taxi-v3 environment, analyzing the impact of option design.
+    *   Implemented and evaluated Hierarchical RL techniques (SMDP Q-Learning, Intra-Option Q-Learning) in the Taxi-v3 environment, analyzing the impact of option design on learning efficiency and policy structure.
     *   *Tech Stack: Python, RL (Hierarchical RL, Q-Learning), OpenAI Gym*
     *   *Keywords: hierarchical-rl, smdp, intra-option-q-learning, reinforcement-learning, taxi-v3*
 *   **Dueling-DQN & Monte Carlo REINFORCE (IITM CS6700 PA2)** ([Repo](https://github.com/ahmecse/RL-Assignments-2-IITM-CS6700))
@@ -55,9 +55,9 @@ Highly motivated Data Scientist with an M.Tech from IIT Madras, specializing in 
     *   *Tech Stack: Python, PyTorch, RL (DQN, Policy Gradient), OpenAI Gym*
     *   *Keywords: dueling-dqn, reinforce, baseline, deep-reinforcement-learning, acrobot-v1, cartpole-v1*
 *   **Temporal Difference Learning (SARSA & Q-Learning) (IITM CS6700 PA1)** ([Repo](https://github.com/ahmecse/RL-Assignments-1-IITM-CS6700))
-    *   Implemented, compared, and analyzed SARSA and Q-Learning algorithms in a custom 10x10 Grid World environment with stochastic transitions and wind effects.
+    *   Implemented, compared, and analyzed foundational TD algorithms (SARSA and Q-Learning) in a custom 10x10 Grid World with stochastic transitions and wind effects, building a strong base in core RL concepts.
     *   *Tech Stack: Python, RL (TD Learning, Q-Learning, SARSA), NumPy, Matplotlib*
-    *   *Keywords: temporal-difference, sarsa, q-learning, gridworld, reinforcement-learning*
+    *   *Keywords: Temporal Difference, SARSA, Q-Learning, Gridworld, Reinforcement Learning, Stochastic Environments*
 ---
 ### DL (Deep Learning)
 
@@ -67,30 +67,38 @@ Highly motivated Data Scientist with an M.Tech from IIT Madras, specializing in 
     *   *Keywords: feedforward-NN, backpropagation, optimizers, activation-functions, initialization, regularization, hyperparameter-tuning*
 
 *   **Convolutional Neural Networks (IITM CS6910 PA2)** ([Repo](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910) / [W&B Report](https://yourdomain.com/DNF-Net-report.pdf))  
-    * Built an end-to-end CNN model from scratch using PyTorch, with Bayesian W&B sweeps over filter counts, kernel sizes, batch normalization, dropout, and data augmentation; visualized learned filters and feature maps, and applied guided backpropagation for interpretability on image classification.  
-    *   *Tech Stack: Python, PyTorch, OpenCV, Weights & Biases*  
-    *   *Keywords: CNN, hyperparameter-optimization, data-augmentation, filter-visualization, guided-backpropagation, interpretability*
+    *   Built an end-to-end CNN using PyTorch, performing **Bayesian hyperparameter optimization** with W&B sweeps across filter counts, kernel sizes, batch normalization, dropout, and data augmentation strategies. Explored model interpretability through filter visualization and guided backpropagation.
+    *   *Tech Stack: Python, PyTorch, OpenCV, Weights & Biases*
+    *   *Keywords: CNN, Hyperparameter Optimization, Bayesian Optimization, Data Augmentation, Filter Visualization, Guided Backpropagation, Interpretability, W&B*
 
 *   **Sequence-to-Sequence Learning & Attention Mechanisms (IITM CS6910 PA3)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910) / [W&B Report](https://yourdomain.com/DNF-Net-report.pdf))  
-    *   Developed a sequence-to-sequence model using vanilla RNN, LSTM, and GRU cells, evaluating performance with and without attention mechanisms, for English-to-Malayalam transliteration on the Aksharantar Dataset.  
-    *   *Tech Stack: Python, PyTorch, Weights & Biases*  
-    *   *Keywords: seq2seq, attention-mechanisms, RNN, LSTM, GRU, transliteration, encoder-decoder, attention-heatmaps*
+     *   Developed and evaluated sequence-to-sequence models (vanilla RNN, LSTM, GRU) with and without attention mechanisms for English-to-Malayalam transliteration (Aksharantar Dataset), analyzing the impact of architectural choices and attention on translation quality.
+      *   *Tech Stack: Python, PyTorch, Weights & Biases*
+      *   *Keywords: Seq2Seq, Attention Mechanisms, RNN, LSTM, GRU, Transliteration, Encoder-Decoder, Attention Heatmaps, NLP*
 
 ---
 
 ### NLP (Natural Language Processing)
 
-*   **Information Retrieval System (IITM CS6370)** ([Code](https://github.com/ahmecse/CS6370-NLP-IR-System-Project-IITM) / [Report](https://drive.google.com/file/d/1oc0HhdfTnjuEQa3Boq1MfmySBWtyttWn/view?usp=sharing))  
-    *   Implemented a hybrid IR pipeline combining Vector Space Model (VSM-2), Latent Semantic Analysis (LSA-500), and BERT-based reranking to maximize retrieval accuracy and efficiency on the Brown and Cranfield corpora.  
-    *   *Tech Stack:* Python, Scikit-learn, Gensim, PyTorch, Transformers  
-    *   *Keywords:* information-retrieval, vector-space-model, latent-semantic-analysis, bert-reranking, diacritic-removal, lemmatization, auto-completion
+*   **Advanced Information Retrieval System (IITM CS6370)** ([Code](https://github.com/ahmecse/CS6370-NLP-IR-System-Project-IITM) / [Report](https://drive.google.com/file/d/1oc0HhdfTnjuEQa3Boq1MfmySBWtyttWn/view?usp=sharing))
+      *   Designed and implemented a sophisticated hybrid IR pipeline combining traditional (VSM, LSA) and modern (BERT-based reranking) techniques to optimize retrieval accuracy and efficiency on standard corpora (Brown, Cranfield).
+      *   *Tech Stack: Python, Scikit-learn, Gensim, PyTorch, Transformers*
+      *   *Keywords: Information Retrieval, VSM, LSA, BERT Reranking, Hybrid Systems, NLP, Search*
+
 ---
 ### ML (Machine Learning Fundamentals/Theory)
 
-*   **Mathematical Essays on ML Algorithms** ([Linear Regression](https://github.com/ahmecse/A-Mathematical-essay-on-linear-regression), [Logistic Regression](https://github.com/ahmecse/Mathematical-essay-on-Logistic-Regression), [Decision Trees](https://github.com/ahmecse/A-Mathematical-essay-on-decision-trees), [Random Forest](https://github.com/ahmecse/A-Mathematical-essay-on-Random-Forest), [Naive Bayes](https://github.com/ahmecse/Mathematical-essay-on-naive-Bayes-classifier), [SVM](https://github.com/ahmecse/A-Mathematical-Essay-on-Support-Vector-Machine))  
-    *   Authored a series of mathematical essays in IEEE conference style, exploring core ML algorithms including Linear Regression, Logistic Regression, Decision Trees, Random Forests, Naive Bayes, and SVM; each essay covers theoretical foundations, mathematical derivations, and real-world applications.  
-    *   *Tech Stack:* LaTeX, Python (for data visualization and analysis)  
-    *   *Keywords:* machine-learning, mathematical-theory, linear-regression, logistic-regression, decision-trees, random-forest, naive-bayes, svm.
+*   **Mathematical Essays on Core ML Algorithms**
+    *   Authored a series of mathematical essays (formatted in IEEE style using LaTeX) dissecting the theoretical underpinnings, derivations, and applications of fundamental ML algorithms:
+        *   [Linear Regression](https://github.com/ahmecse/A-Mathematical-essay-on-linear-regression)
+        *   [Logistic Regression](https://github.com/ahmecse/Mathematical-essay-on-Logistic-Regression)
+        *   [Decision Trees](https://github.com/ahmecse/A-Mathematical-essay-on-decision-trees)
+        *   [Random Forest](https://github.com/ahmecse/A-Mathematical-essay-on-Random-Forest)
+        *   [Naive Bayes](https://github.com/ahmecse/Mathematical-essay-on-naive-Bayes-classifier)
+        *   [Support Vector Machine (SVM)](https://github.com/ahmecse/A-Mathematical-Essay-on-Support-Vector-Machine)
+    *   *Tech Stack: LaTeX, Python (for supporting visualizations/analysis)*
+    *   *Keywords: Ml Theory, Math Foundations, Linear Regression, Logistic Regression, Decision Trees, Random Forest, Naive Bayes, SVM, LaTeX*
+
 ---
 
 ## 📊 GitHub Activity
