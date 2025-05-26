@@ -72,21 +72,22 @@ Highly motivated Data Scientist with an M.Tech from IIT Madras, specializing in 
     *   *Keywords: CNN, hyperparameter-optimization, data-augmentation, filter-visualization, guided-backpropagation, interpretability*
 
 *   **Sequence-to-Sequence Learning & Attention Mechanisms (IITM CS6910 PA3)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910))  
-    *   Developed character-level seq2seq transliteration models in PyTorch using vanilla RNN, LSTM & GRU on the Aksharantar English–Malayalam dataset; integrated Bahdanau & Luong attention, conducted W&B sweeps over embedding sizes, hidden dims, layers, dropout, teacher forcing, and visualized attention heatmaps to analyze alignment.  
+    *  Developed a sequence‑to‑sequence model using vanilla RNN, LSTM, and GRU cells—evaluating performance with and without attention
+mechanisms—for English‑to‑Malayalam transliteration on the Aksharantar Dataset.  
     *   *Tech Stack: Python, PyTorch, Weights & Biases*  
     *   *Keywords: seq2seq, attention-mechanisms, RNN, LSTM, GRU, transliteration, encoder-decoder, attention-heatmaps*
 ---
 
 ### NLP (Natural Language Processing)
 
-*   **Deep Learning Sequence-to-Sequence Modeling (IITM CS6910)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910))
-    *   Developed and compared sequence-to-sequence models (RNN, LSTM, GRU) with attention mechanisms for English-to-Malayalam transliteration.
-    *   *Tech Stack: Python, PyTorch, Deep Learning (RNN, LSTM, GRU, Attention), NLP*
-    *   *Keywords: seq2seq, attention-mechanism, rnn, lstm, gru, transliteration, nlp*
+*   **Information Retrieval System (IITM CS6370)** ([Code](https://github.com/ahmecse/CS6370-NLP-IR-System-Project-IITM) / [Report](https://drive.google.com/file/d/1oc0HhdfTnjuEQa3Boq1MfmySBWtyttWn/view?usp=sharing))  
+    *   Implemented a hybrid IR pipeline combining Vector Space Model (VSM-2), Latent Semantic Analysis (LSA-500), and BERT-based reranking to maximize retrieval accuracy and efficiency on the Brown and Cranfield corpora.  
+    *   *Tech Stack:* Python, Scikit-learn, Gensim, PyTorch, Transformers  
+    *   *Keywords:* information-retrieval, vector-space-model, latent-semantic-analysis, bert-reranking, diacritic-removal, lemmatization, auto-completion
 ---
 ### ML Part (Machine Learning Fundamentals/Theory)
 
-*   **Mathematical Essays on ML Algorithms** ([SVM Repo](https://github.com/ahmecse/A-Mathematical-Essay-on-Support-Vector-Machine), [More...](https://github.com/ahmecse?tab=repositories&q=Mathematical-essay))
+*   **Mathematical Essays on ML Algorithms** ([SVM Repo, LR, LR, DT, RF,](https://github.com/ahmecse/A-Mathematical-Essay-on-Support-Vector-Machine), [More...](https://github.com/ahmecse?tab=repositories&q=Mathematical-essay))
     *   Authored a series of in-depth mathematical explorations of fundamental Machine Learning algorithms (SVM, Random Forests, Decision Trees, etc.).
     *   *Keywords: machine-learning, theory, mathematics, svm, random-forest, decision-trees*
 
