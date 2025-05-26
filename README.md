@@ -43,7 +43,7 @@ Highly motivated Data Scientist with an M.Tech from IIT Madras, specializing in 
 ### RL (Reinforcement Learning)
 
 *   **Reinforcement Fine-Tuning LLMs with GRPO** ([Repo](https://github.com/ahmecse/Reinforcement-Fine-Tuning-LLMs-with-GRPO))
-    *   Explored Reinforcement Fine-Tuning (RFT) using GRPO (Generalized Reward Policy Optimization) to adapt LLMs for complex reasoning tasks (math, coding).
+    *   Explored RFT using GRPO to adapt LLMs for complex reasoning and strategic tasks, with a practical demonstration on a Wordle-style guessing game using the Qwen 2.5 7B Instruct model
     *   *Tech Stack: Python, PyTorch, RL, LLMs, GRPO*
     *   *Keywords: rlft, grpo, llms, reinforcement-learning, fine-tuning*
 *   **Hierarchical Reinforcement Learning (IITM CS6700 PA3)** ([Repo](https://github.com/ahmecse/RL-Assignments-3-IITM-CS6700))
