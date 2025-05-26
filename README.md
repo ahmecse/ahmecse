@@ -2,13 +2,17 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4b79ff,100:a1d3ff&reversal=true&section=header" />
 </div>
 
-<h2 align="center">
+<h1 align="center">
   👋 Hi, I'm Ahmed
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+<h2 align="center">
+  🎓 M.Tech DS @ IIT Madras | B.Tech CS @ VIT | 🔬 AI Researcher
 </h2>
 
 <h3 align="center">
-  🎓 M.Tech DS @ IIT Madras | B.Tech CS @ VIT | 🔬 AI Researcher
+  Building the Future with AI
 </h3>
 
 <div align="center">
@@ -16,7 +20,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4B79FF&center=true&vCenter=true&width=800&lines=🤖+AI+Engineer+%7C+ML+Researcher;🧠+Reinforcement+Learning+%7C+Computer+Vision;📊+NLP+%7C+Large+Language+Models;📚+Always+Learning+New+Things!;👀+Feel+Free+to+Explore+My+Work!" alt="Typing SVG">
   </a>
 </div>
-
 <br>
 
 <div align="center">
