@@ -114,8 +114,25 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ![SPSS](https://img.shields.io/badge/SPSS-%230047AB.svg?style=for-the-badge&logo=ibm&logoColor=white)
 
 
+<summary><strong>🌐 Web Development</strong></summary>
+
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<summary><strong>🗃️ Databases & Big Data</strong></summary>
 
 
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%23663399.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 <summary><strong>🧪 Experiment Tracking & ML Tooling</strong></summary>
 
@@ -125,42 +142,12 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ![DVC](https://img.shields.io/badge/DVC-%234285F4.svg?style=for-the-badge&logo=data-version-control&logoColor=white)
 
 
-
-
-
-<summary><strong>🗃️ Databases & Big Data</strong></summary>
-
-
-![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%23663399.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-
-
-
-
 <summary><strong>☁️ Cloud, DevOps & Version Control</strong></summary>
 
 
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Git LFS](https://img.shields.io/badge/Git%20LFS-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-<summary><strong>🌐 Web Development</strong></summary>
-
-
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-
 
 ---
 ##  Featured Projects
