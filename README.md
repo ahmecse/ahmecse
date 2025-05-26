@@ -43,6 +43,8 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 
 
 
@@ -51,7 +53,6 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-%233F86ED.svg?style=for-the-badge&logo=jax&logoColor=white)
 ![Transformers (by Hugging Face)](https://img.shields.io/badge/Transformers-%23FF5A5F.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-%23000000.svg?style=for-the-badge&logo=spacy&logoColor=white)
@@ -73,6 +74,7 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![SPSS](https://img.shields.io/badge/SPSS-%230047AB.svg?style=for-the-badge&logo=ibm&logoColor=white)
 
 
 
@@ -117,14 +119,6 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-
-
-<summary><strong>🧰 Familiar With / Prior Exposure</strong></summary>
-
-
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-%230047AB.svg?style=for-the-badge&logo=ibm&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 
 
 ---
