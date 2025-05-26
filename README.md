@@ -79,6 +79,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SPSS](https://img.shields.io/badge/SPSS-%230047AB.svg?style=for-the-badge&logo=ibm&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 
