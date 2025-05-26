@@ -176,19 +176,19 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
     *   *Manuscript ID:* CIBM-D-25-00543
     *   *Status:* Under Review
 ---
+
 ### Certificates & Continuous Learning
 
-
-| Certificate/Specialization                             | Provider             | Date Completed | Link              |
-| :----------------------------------------------------- | :------------------- | :------------- | :---------------- |
-| Advanced Large Language Model Agents                   | UC Berkeley          | May 2025       | [Add Link Here]   |
-| Linguistic Linked Data – Advanced Topics               | German UDS Academy   | May 2025       | [Add Link Here]   |
-| Linguistic Linked Data – Essentials                    | German UDS Academy   | Apr 2025       | [Add Link Here]   |
-| Natural Language Processing                            | Udemy, Inc.          | Aug 2023       | [Add Link Here]   |
-| The Complete Python Bootcamp                           | Udemy, Inc.          | Aug 2023       | [Add Link Here]   |
-| Mathematics for Machine Learning & Data Science Spec. | DeepLearning.AI      | Jun 2023       | [Add Link Here]   |
-| Machine Learning Specialization                        | DeepLearning.AI      | Jan 2023       | [Add Link Here]   |
-| Google Data Analytics Specialization                   | Google               | Apr 2022       | [Add Link Here]   |
+| Certificate/Specialization                           | Provider           | Date Completed | Link                                                         |
+| :--------------------------------------------------- | :----------------- | :------------- | :----------------------------------------------------------- |
+| Advanced Large Language Model Agents                 | UC Berkeley        | May 2025       | Soon, May 31, 2025                                       |
+| Linguistic Linked Data – Advanced Topics             | German UDS Academy | May 2025       | [View Certificate](https://apps.german-uds.academy/learner-dashboard/) |
+| Linguistic Linked Data – Essentials                  | German UDS Academy | Apr 2025       | [View Certificate](https://apps.german-uds.academy/learner-dashboard/) |
+| Natural Language Processing                          | Udemy, Inc.        | Aug 2023       | [View Certificate](https://www.udemy.com/certificate/UC-ec2c6d17-780c-47c6-aa6f-5625b4e5e73c/) |
+| The Complete Python Bootcamp                         | Udemy, Inc.        | Aug 2023       | [View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-8a555280-76c5-4ff8-a39a-74a59685d676.pdf) |
+| Mathematics for ML & DS Specialization               | DeepLearning.AI    | Jun 2023       | [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5766F58B8Y4F) |
+| Machine Learning Specialization                      | DeepLearning.AI    | Jan 2023       | [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UQT94APQN4N7) |
+| Google Data Analytics Specialization                 | Google             | Apr 2022       | [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/P32YCMSZJL9Y) |
 
 ---
 ##  GitHub Activity
