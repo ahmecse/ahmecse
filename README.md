@@ -1,48 +1,50 @@
 <div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4b79ff,100:a1d3ff&reversal=true&section=header" />
 </div>
 
+<h2 align="center">
+  👋 Hi, I'm Ahmed
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h2>
+
 <h3 align="center">
-  Hi, I'm Ahmed
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  🎓 M.Tech DS @ IIT Madras | B.Tech CS @ VIT | 🔬 AI Researcher
 </h3>
 
-<h4 align="center">
-  M.Tech DS @ IIT Madras | B.Tech CS @ VIT | AI Researcher
-</h4>
-
-<p align="center">
+<div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Researcher;Reinforcement+Learning+%7C+Computer+Vision+%7C+NLP+%7C+LLMs;Always+learning+new+things!+%F0%9F%93%9A;Feel+free+to+look+around+%F0%9F%91%80" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=4B79FF&center=true&vCenter=true&width=800&lines=🤖+AI+Engineer+%7C+ML+Researcher;🧠+Reinforcement+Learning+%7C+Computer+Vision;📊+NLP+%7C+Large+Language+Models;📚+Always+Learning+New+Things!;👀+Feel+Free+to+Explore+My+Work!" alt="Typing SVG">
   </a>
-</p>
+</div>
 
+<br>
 
-
-
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/ahmecse/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ahmecse-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:ahmecse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-green?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/ahmecse">
-    <img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.kaggle.com/ahmecse" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-Top_5%25-blue?style=flat-square&logo=kaggle">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
   <a href="https://ahmecse.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-purple?style=flat-square&logo=google-chrome">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=ahmecse&label=Profile%20Views&color=4B79FF&style=for-the-badge" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/ahmecse?label=Followers&style=for-the-badge&color=4B79FF&logo=github&logoColor=white" alt="GitHub Followers">
+</div>
 
-<p align="center">
-  <a href="https://github.com/ahmecse">
-    <img align="center" alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=ahmecse.ahmecse">
-  </a>
-</p>
+
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4b79ff,100:a1d3ff&section=footer" />
+</div>
+
 
 ## About Me
 
