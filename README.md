@@ -116,7 +116,12 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
     *   *Keywords: Ml Theory, Math Foundations, Linear Regression, Logistic Regression, Decision Trees, Random Forest, Naive Bayes, SVM, LaTeX*
 
 ---
-
+###  Publications
+*   **Beyond the Horizon: Exploring the Impact of AI on Early Cancer Detection & Diagnosis — A Comprehensive Review** (Jan. 2025)
+    *   *Journal:* Computers in Biology and Medicine (Impact Factor: 7.7)
+    *   *Manuscript ID:* CIBM-D-25-00543
+    *   *Status:* Under Review
+---
 ## 📊 GitHub Activity
 
 [![ahmecse's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmecse&show_icons=true&theme=radical)](https://github.com/ahmecse)
