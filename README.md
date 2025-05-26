@@ -31,10 +31,7 @@ Driven by a curiosity to unravel complex systems and build intelligent agents, I
 I am actively seeking challenging R&D opportunities where I can contribute to pioneering AI projects and collaborate with forward-thinking teams.
 
 ---
-<table>
-  <tr>
-    <!-- Left column: your Tech Stack -->
-    <td valign="top" width="70%">
+
       
 ## 🛠 &nbsp;Tech Stack
 
@@ -129,8 +126,7 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-  </tr>
-</table>
+
 
 ---
 ##  Featured Projects
@@ -163,6 +159,7 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
     *   *Tech Stack: Python, RL (TD Learning, Q-Learning, SARSA), NumPy, Matplotlib*
     *   *Keywords: Temporal Difference, SARSA, Q-Learning, Gridworld, Reinforcement Learning, Stochastic Environments*
 ---
+
 ### DL (Deep Learning)
 
 *   **Feedforward Neural Networks (FNN) from Scratch (IITM CS6910 PA1)** ([Repo](https://github.com/ahmecse/DL-Assignments-1-IITM-CS6910) / [W&B Report](https://wandb.ai/ahmecse/GPT100/reports/Assignment-1---Vmlldzo3MTg4Mjkw))  
