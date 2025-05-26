@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a passionate AI Researcher and Data Scientist, holding an M.Tech in Data Science from IIT Madras and a B.Tech in Computer Science from VIT. My core focus lies at the intersection of **Reinforcement Learning (RL)**, **Large Language Models (LLMs)**, and **Deep Learning**, where I strive to push the boundaries of AI capabilities.
 
@@ -32,7 +32,7 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 *   **Languages:** Python, Java, C++, JavaScript, HTML/CSS
 *   **ML/DL Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face Transformers
@@ -45,7 +45,7 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 
 ---
 
-## ✨ Featured Projects
+##  Featured Projects
 
 ### Thesis
 
