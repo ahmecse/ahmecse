@@ -1,19 +1,48 @@
-# Ahmed | M.Tech DS IIT Madras, B.Tech CS VIT | AI Researcher
+<div align="center">
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+</div>
 
-<!-- Optional: Add a compelling banner image here -->
-<!-- ![Profile Banner](path/to/your/banner.png) -->
+<h3 align="center">
+  Hi, I'm Ahmed
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<h4 align="center">
+  M.Tech DS @ IIT Madras | B.Tech CS @ VIT | AI Researcher
+</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmecse/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ahmecse-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:ahmecse@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-green?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/ahmecse"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat-square&logo=github"></a>
-  <a href="https://www.kaggle.com/ahmecse" target="_blank"><img src="https://img.shields.io/badge/Kaggle-Top_5%25-blue?style=flat-square&logo=kaggle"></a>
-  <a href="https://ahmecse.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-purple?style=flat-square&logo=google-chrome"></a>
-  <!-- Optional: Add Google Scholar / ORCID / Semantic Scholar badges if applicable -->
-  <!-- <a href="YOUR_SCHOLAR_LINK" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat-square&logo=google-scholar"></a> -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Researcher;Reinforcement+Learning+%7C+Computer+Vision+%7C+NLP+%7C+LLMs;Always+learning+new+things!+%F0%9F%93%9A;Feel+free+to+look+around+%F0%9F%91%80" alt="Typing SVG">
+  </a>
 </p>
 
----
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmecse/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ahmecse-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:ahmecse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-green?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://github.com/ahmecse">
+    <img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat-square&logo=github">
+  </a>
+  <a href="https://www.kaggle.com/ahmecse" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-Top_5%25-blue?style=flat-square&logo=kaggle">
+  </a>
+  <a href="https://ahmecse.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-purple?style=flat-square&logo=google-chrome">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ahmecse">
+    <img align="center" alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=ahmecse.ahmecse">
+  </a>
+</p>
 
 ## About Me
 
