@@ -201,7 +201,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
     *   *Keywords: Ml Theory, Math Foundations, Linear Regression, Logistic Regression, Decision Trees, Random Forest, Naive Bayes, SVM, LaTeX*
 
 ---
-###  Publications
+##  Publications
 *   **Beyond the Horizon: Exploring the Impact of AI on Early Cancer Detection & Diagnosis — A Comprehensive Review**
     *   *Journal:* Computers in Biology and Medicine (Impact Factor: 7.7)
     *   *Submission Date:* January 2025
@@ -209,7 +209,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
     *   *Status:* Under Review
 ---
 
-### Certificates & Continuous Learning
+## Certificates & Continuous Learning
 
 | Certificate/Specialization                           | Provider           | Date Completed | Link                                                         |
 | :--------------------------------------------------- | :----------------- | :------------- | :----------------------------------------------------------- |
@@ -223,13 +223,22 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 | Google Data Analytics Specialization                 | Google             | Apr 2022       | [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/P32YCMSZJL9Y) |
 
 ---
-##  GitHub Activity
+## GitHub Activity
 
-[![ahmecse's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmecse&show_icons=true&theme=radical)](https://github.com/ahmecse)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmecse&show_icons=true&theme=radical)](https://github.com/ahmecse)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmecse&layout=compact&theme=radical)](https://github.com/ahmecse)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmecse&theme=radical)](https://github.com/ahmecse)
 
 ---
 
-Feel free to reach out via [Email](mailto:ahmecse@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/ahmecse/)!
+## 🤝🏻  Connect with Me
+
+  <a href="https://ahmecse.github.io/"><img src="https://img.shields.io/badge/-ahmecse.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ahmecse/"><img src="https://img.shields.io/badge/-Ahmed%20GE22M009-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:ahmecse@gmail.com"><img src="https://img.shields.io/badge/-ahmecse-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/ahmecse"><img src="https://img.shields.io/badge/-Top%205%25%20Kaggler-20BEFF?style=flat&logo=Kaggle&logoColor=white"/></a>
+
+
+---
 
