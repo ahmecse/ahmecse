@@ -122,7 +122,19 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
     *   *Manuscript ID:* CIBM-D-25-00543
     *   *Status:* Under Review
 ---
-## 📊 GitHub Activity
+### Certificates & Continuous Learning
+
+*   **Advanced Large Language Model Agents** - UC Berkeley (May 2025)
+*   **Linguistic Linked Data – Advanced Topics** - German UDS Academy (May 2025)
+*   **Linguistic Linked Data – Essentials** - German UDS Academy (Apr 2025)
+*   **Natural Language Processing** - Udemy, Inc. (Aug 2023)
+*   **The Complete Python Bootcamp** - Udemy, Inc. (Aug 2023)
+*   **Mathematics for Machine Learning & Data Science Specialization** - DeepLearning.AI (Jun 2023)
+*   **Machine Learning Specialization** - DeepLearning.AI (Jan 2023)
+*   **Google Data Analytics Specialization** - Google (Apr 2022)
+
+---
+##  GitHub Activity
 
 [![ahmecse's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmecse&show_icons=true&theme=radical)](https://github.com/ahmecse)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmecse&layout=compact&theme=radical)](https://github.com/ahmecse)
