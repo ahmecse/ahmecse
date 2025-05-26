@@ -32,26 +32,79 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 
 ---
 
-##  Technical Skills
+## 🛠 &nbsp;Tech Stack
 
-*   **Languages:** Python, Java, C++, JavaScript, HTML/CSS
-*   **ML/DL Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, Hugging Face Transformers
-*   **Reinforcement Learning:** RLlib, Stable Baselines, Custom Implementations (Q-Learning, SARSA, DQN, Dueling-DQN, REINFORCE, Hierarchical RL, Options Framework, GRPO)
-*   **NLP:** NLTK, spaCy, Transformers, Gensim
-*   **Computer Vision:** OpenCV, YOLO, Pillow
-*   **Databases:** MySQL, MongoDB
-*   **Tools & Platforms:** Git, GitHub, Docker, Linux, Kaggle, Google Colab, Weights & Biases (W&B)
-*   **Big Data (Familiarity):** Hadoop, Spark, Kafka
+#### 🔧 Languages
+
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
+
+#### 🔩 Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### ⚙️ Version Control & Big Data
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git LFS](https://img.shields.io/badge/Git%20LFS-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-%234285F4.svg?style=for-the-badge&logo=data-version-control&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%23663399.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+#### 📊 Visualization Tools
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234682B4.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![SPSS](https://img.shields.io/badge/SPSS-%230047AB.svg?style=for-the-badge&logo=ibm&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-%23FFBD00.svg?style=for-the-badge&logo=wandb&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-%23000000.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+
+#### 🧠 DL & NLP Libraries
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%23FF5A5F.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-%23000000.svg?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-%23000000.svg?style=for-the-badge&logo=nltk&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FF5A5F.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![Jax](https://img.shields.io/badge/Jax-%233F86ED.svg?style=for-the-badge&logo=jax&logoColor=white)
+
+#### ☁️ Cloud
+
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+#### 💻 Frameworks
+
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
-
 ##  Featured Projects
 
 ### Thesis
 
-*   **M.Tech Thesis: DNF‑Net: A DL Approach for Advancing Breast Cancer Detection in Histopathology Images**
-    *   Engineered DNF‑Net, a hybrid framework integrating symbolic (fuzzy logic) & subsymbolic architectures (Xception, InceptionV3, DenseNet‑169), achieving 98% accuracy (↑5% vs SOTA) on BreakHis & BACH datasets. Reduced misdiagnosis by 12% using fuzzy reasoning.
-*   **B.Tech Thesis: COVID-19 Classification from CXR Images** ([Repo](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning))
+*   **M.Tech Thesis: DNF‑Net: A Deep Learning Approach for Advancing Breast Cancer Detection in Histopathology Images**
+    *   Engineered DNF‑Net, a hybrid framework integrating symbolic (fuzzy logic) & subsymbolic architectures (Xception, InceptionV3, DenseNet‑169),  on BreakHis & BACH datasets. 
+*   **B.Tech Thesis: CXRcovNet: COVID‑19 detection from CXR images using transfer learning approaches.** ([Repo](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning))
     *   Applied Transfer Learning techniques using pre-trained CNN models to classify COVID-19 from Chest X-Ray (CXR) images.
     *   *Keywords: computer-vision, deep-learning, transfer-learning, covid-19, cxr, image-classification*
 ---
@@ -77,17 +130,17 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 ---
 ### DL (Deep Learning)
 
-*   **Feedforward Neural Networks/FNN from Scratch (IITM CS6910 PA1)** ([Repo](https://github.com/ahmecse/DL-Assignments-1-IITM-CS6910) / [W&B Report](https://wandb.ai/ahmecse/GPT100/reports/Assignment-1---Vmlldzo3MTg4Mjkw))  
+*   **Feedforward Neural Networks (FNN) from Scratch (IITM CS6910 PA1)** ([Repo](https://github.com/ahmecse/DL-Assignments-1-IITM-CS6910) / [W&B Report](https://wandb.ai/ahmecse/GPT100/reports/Assignment-1---Vmlldzo3MTg4Mjkw))  
     *   Built an end-to-end NumPy-only FNN for Fashion-MNIST classification, integrating six optimizers (SGD, Momentum, NAG, RMSProp, Adam, Nadam), four activations (sigmoid, tanh, ReLU, softmax), two losses (MSE, Cross-Entropy), weight initialization (Xavier, random), regularization (L1, L2), early stopping, and W&B-driven hyperparameter sweeps.  
     *   *Tech Stack: Python, NumPy, Matplotlib, Seaborn, Scikit-learn, Weights & Biases*  
     *   *Keywords: feedforward-NN, backpropagation, optimizers, activation-functions, initialization, regularization, hyperparameter-tuning*
 
-*   **Convolutional Neural Networks/CNN (IITM CS6910 PA2)** ([Repo](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910) / [W&B Report](https://yourdomain.com/DNF-Net-report.pdf))  
+*   **Convolutional Neural Networks (CNN) (IITM CS6910 PA2)** ([Repo](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910) / [W&B Report](https://yourdomain.com/DNF-Net-report.pdf))  
     *   Built an end-to-end CNN using PyTorch, performing **Bayesian hyperparameter optimization** with W&B sweeps across filter counts, kernel sizes, batch normalization, dropout, and data augmentation strategies. Explored model interpretability through filter visualization and guided backpropagation.
     *   *Tech Stack: Python, PyTorch, OpenCV, Weights & Biases*
     *   *Keywords: CNN, Hyperparameter Optimization, Bayesian Optimization, Data Augmentation, Filter Visualization, Guided Backpropagation, Interpretability, W&B*
 
-*   **Sequence-to-Sequence Learning/RNN (IITM CS6910 PA3)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910) / [W&B Report](https://yourdomain.com/DNF-Net-report.pdf))  
+*   **Sequence-to-Sequence Learning (RNN) (IITM CS6910 PA3)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910) / [W&B Report](https://yourdomain.com/DNF-Net-report.pdf))  
      *   Developed and evaluated sequence-to-sequence models (vanilla RNN, LSTM, GRU) with and without attention mechanisms for English-to-Malayalam transliteration (Aksharantar Dataset), analyzing the impact of architectural choices and attention on translation quality.
       *   *Tech Stack: Python, PyTorch, Weights & Biases*
       *   *Keywords: Seq2Seq, Attention Mechanisms, RNN, LSTM, GRU, Transliteration, Encoder-Decoder, Attention Heatmaps, NLP*
@@ -117,21 +170,25 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 
 ---
 ###  Publications
-*   **Beyond the Horizon: Exploring the Impact of AI on Early Cancer Detection & Diagnosis — A Comprehensive Review** (Jan. 2025)
+*   **Beyond the Horizon: Exploring the Impact of AI on Early Cancer Detection & Diagnosis — A Comprehensive Review**
     *   *Journal:* Computers in Biology and Medicine (Impact Factor: 7.7)
+    *   *Submission Date:* January 2025
     *   *Manuscript ID:* CIBM-D-25-00543
     *   *Status:* Under Review
 ---
 ### Certificates & Continuous Learning
 
-*   **Advanced Large Language Model Agents** - UC Berkeley (May 2025)
-*   **Linguistic Linked Data – Advanced Topics** - German UDS Academy (May 2025)
-*   **Linguistic Linked Data – Essentials** - German UDS Academy (Apr 2025)
-*   **Natural Language Processing** - Udemy, Inc. (Aug 2023)
-*   **The Complete Python Bootcamp** - Udemy, Inc. (Aug 2023)
-*   **Mathematics for Machine Learning & Data Science Specialization** - DeepLearning.AI (Jun 2023)
-*   **Machine Learning Specialization** - DeepLearning.AI (Jan 2023)
-*   **Google Data Analytics Specialization** - Google (Apr 2022)
+
+| Certificate/Specialization                             | Provider             | Date Completed | Link              |
+| :----------------------------------------------------- | :------------------- | :------------- | :---------------- |
+| Advanced Large Language Model Agents                   | UC Berkeley          | May 2025       | [Add Link Here]   |
+| Linguistic Linked Data – Advanced Topics               | German UDS Academy   | May 2025       | [Add Link Here]   |
+| Linguistic Linked Data – Essentials                    | German UDS Academy   | Apr 2025       | [Add Link Here]   |
+| Natural Language Processing                            | Udemy, Inc.          | Aug 2023       | [Add Link Here]   |
+| The Complete Python Bootcamp                           | Udemy, Inc.          | Aug 2023       | [Add Link Here]   |
+| Mathematics for Machine Learning & Data Science Spec. | DeepLearning.AI      | Jun 2023       | [Add Link Here]   |
+| Machine Learning Specialization                        | DeepLearning.AI      | Jan 2023       | [Add Link Here]   |
+| Google Data Analytics Specialization                   | Google               | Apr 2022       | [Add Link Here]   |
 
 ---
 ##  GitHub Activity
