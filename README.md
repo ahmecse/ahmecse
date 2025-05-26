@@ -61,21 +61,21 @@ Highly motivated Data Scientist with an M.Tech from IIT Madras, specializing in 
 ---
 ### DL (Deep Learning)
 
-*   **Feedforward Neural Networks from Scratch (IITM CS6910 PA1)** ([Repo](https://github.com/ahmecse/DL-Assignments-1-IITM-CS6910))  
-    *   Built an end-to-end NumPy-only FNN with full backpropagation, integrating six optimizers (SGD, Momentum, NAG, RMSProp, Adam, Nadam), four activations (sigmoid, tanh, ReLU, softmax), dual losses (MSE, Cross-Entropy), Xavier & random weight initialization, L1/L2 regularization, early stopping, and W&B-driven hyperparameter sweeps on Fashion-MNIST.  
+*   **Feedforward Neural Networks from Scratch (IITM CS6910 PA1)** ([Repo](https://github.com/ahmecse/DL-Assignments-1-IITM-CS6910) / [W&B Report](https://wandb.ai/ahmecse/GPT100/reports/Assignment-1---Vmlldzo3MTg4Mjkw))  
+    *   Built an end-to-end NumPy-only FNN for Fashion-MNIST classification, integrating six optimizers (SGD, Momentum, NAG, RMSProp, Adam, Nadam), four activations (sigmoid, tanh, ReLU, softmax), two losses (MSE, Cross-Entropy), weight initialization (Xavier, random), regularization (L1, L2), early stopping, and W&B-driven hyperparameter sweeps.  
     *   *Tech Stack: Python, NumPy, Matplotlib, Seaborn, Scikit-learn, Weights & Biases*  
     *   *Keywords: feedforward-NN, backpropagation, optimizers, activation-functions, initialization, regularization, hyperparameter-tuning*
 
-*   **Convolutional Neural Networks (IITM CS6910 PA2)** ([Repo](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910))  
-    *   Engineered a five-layer CNN from scratch in TensorFlow/Keras with Bayesian W&B sweeps over filter counts, kernel sizes, batch norm, dropout, and data augmentation; visualized learned filters, feature maps, and applied guided backpropagation for interpretability on image classification.  
-    *   *Tech Stack: Python, TensorFlow/Keras, OpenCV, Weights & Biases*  
+*   **Convolutional Neural Networks (IITM CS6910 PA2)** ([Repo](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910) / [W&B Report](https://yourdomain.com/DNF-Net-report.pdf))  
+    * Built an end-to-end CNN model from scratch using PyTorch, with Bayesian W&B sweeps over filter counts, kernel sizes, batch normalization, dropout, and data augmentation; visualized learned filters and feature maps, and applied guided backpropagation for interpretability on image classification.  
+    *   *Tech Stack: Python, PyTorch, OpenCV, Weights & Biases*  
     *   *Keywords: CNN, hyperparameter-optimization, data-augmentation, filter-visualization, guided-backpropagation, interpretability*
 
-*   **Sequence-to-Sequence Learning & Attention Mechanisms (IITM CS6910 PA3)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910))  
-    *  Developed a sequence‑to‑sequence model using vanilla RNN, LSTM, and GRU cells—evaluating performance with and without attention
-mechanisms—for English‑to‑Malayalam transliteration on the Aksharantar Dataset.  
+*   **Sequence-to-Sequence Learning & Attention Mechanisms (IITM CS6910 PA3)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910) / [W&B Report](https://yourdomain.com/DNF-Net-report.pdf))  
+    *   Developed a sequence-to-sequence model using vanilla RNN, LSTM, and GRU cells, evaluating performance with and without attention mechanisms, for English-to-Malayalam transliteration on the Aksharantar Dataset.  
     *   *Tech Stack: Python, PyTorch, Weights & Biases*  
     *   *Keywords: seq2seq, attention-mechanisms, RNN, LSTM, GRU, transliteration, encoder-decoder, attention-heatmaps*
+
 ---
 
 ### NLP (Natural Language Processing)
@@ -85,12 +85,12 @@ mechanisms—for English‑to‑Malayalam transliteration on the Aksharantar Dat
     *   *Tech Stack:* Python, Scikit-learn, Gensim, PyTorch, Transformers  
     *   *Keywords:* information-retrieval, vector-space-model, latent-semantic-analysis, bert-reranking, diacritic-removal, lemmatization, auto-completion
 ---
-### ML Part (Machine Learning Fundamentals/Theory)
+### ML (Machine Learning Fundamentals/Theory)
 
-*   **Mathematical Essays on ML Algorithms** ([SVM Repo, LR, LR, DT, RF,](https://github.com/ahmecse/A-Mathematical-Essay-on-Support-Vector-Machine), [More...](https://github.com/ahmecse?tab=repositories&q=Mathematical-essay))
-    *   Authored a series of in-depth mathematical explorations of fundamental Machine Learning algorithms (SVM, Random Forests, Decision Trees, etc.).
-    *   *Keywords: machine-learning, theory, mathematics, svm, random-forest, decision-trees*
-
+*   **Mathematical Essays on ML Algorithms** ([Linear Regression](https://github.com/ahmecse/A-Mathematical-essay-on-linear-regression), [Logistic Regression](https://github.com/ahmecse/Mathematical-essay-on-Logistic-Regression), [Decision Trees](https://github.com/ahmecse/A-Mathematical-essay-on-decision-trees), [Random Forest](https://github.com/ahmecse/A-Mathematical-essay-on-Random-Forest), [Naive Bayes](https://github.com/ahmecse/Mathematical-essay-on-naive-Bayes-classifier), [SVM](https://github.com/ahmecse/A-Mathematical-Essay-on-Support-Vector-Machine))  
+    *   Authored a series of mathematical essays in IEEE conference style, exploring core ML algorithms including Linear Regression, Logistic Regression, Decision Trees, Random Forests, Naive Bayes, and SVM; each essay covers theoretical foundations, mathematical derivations, and real-world applications.  
+    *   *Tech Stack:* LaTeX, Python (for data visualization and analysis)  
+    *   *Keywords:* machine-learning, mathematical-theory, linear-regression, logistic-regression, decision-trees, random-forest, naive-bayes, svm.
 ---
 
 ## 📊 GitHub Activity
