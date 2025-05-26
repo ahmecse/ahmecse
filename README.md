@@ -20,14 +20,15 @@
 I’m an AI researcher and data scientist with an M.Tech in Data Science (IIT Madras) and a B.Tech in Computer Science (VIT). My core focus lies at the intersection of **Reinforcement Learning (RL)**, **Large Language Models (LLMs)**, and **Deep Learning**, where I strive to push the boundaries of AI capabilities.
 
 **Research Interests:**  
-- Causality in Reinforcement Learning (Causality & RL)  
 - Reinforcement Learning for Large Language Models (RL4LLMs)  
 - Multi-Agent Reinforcement Learning (MARL)  
 - Multi-Agent Reasoning (MAR)  
 - Multi-Agent Systems & Communication (MAS-Comm)
+- Causality in Reinforcement Learning (Causality & RL)  
 - Representation Learning for Decision-Making  
 
 I’m seeking a PhD or research position where I can drive innovative AI projects alongside a collaborative team.
+
 ---
 
       
