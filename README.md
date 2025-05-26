@@ -91,7 +91,6 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-%233F86ED.svg?style=for-the-badge&logo=jax&logoColor=white)
-![Transformers (by Hugging Face)](https://img.shields.io/badge/Transformers-%23FF5A5F.svg?style=for-the-badge&logo=huggingface&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-%23000000.svg?style=for-the-badge&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-%23000000.svg?style=for-the-badge&logo=nltk&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -113,7 +112,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SPSS](https://img.shields.io/badge/SPSS-%230047AB.svg?style=for-the-badge&logo=ibm&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 
 
