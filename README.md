@@ -43,13 +43,21 @@ Highly motivated Data Scientist with an M.Tech from IIT Madras, specializing in 
 ### RL (Reinforcement Learning)
 
 *   **Reinforcement Fine-Tuning LLMs with GRPO** ([Repo](https://github.com/ahmecse/Reinforcement-Fine-Tuning-LLMs-with-GRPO))
-    *   Explored Reinforcement Fine-Tuning (RFT) using GRPO to adapt LLMs for complex reasoning tasks (math, coding).
+    *   Explored Reinforcement Fine-Tuning (RFT) using GRPO (Generalized Reward Policy Optimization) to adapt LLMs for complex reasoning tasks (math, coding).
     *   *Tech Stack: Python, PyTorch, RL, LLMs, GRPO*
     *   *Keywords: rlft, grpo, llms, reinforcement-learning, fine-tuning*
-*   **Hierarchical Reinforcement Learning Assignments (IITM CS6700)** ([Repo](https://github.com/ahmecse/RL-Assignments-3-IITM-CS6700))
-    *   Implemented and evaluated Hierarchical RL techniques (SMDP Q-Learning, Intra-Option Q-Learning) in the Taxi-v3 environment.
+*   **Hierarchical Reinforcement Learning (IITM CS6700 PA3)** ([Repo](https://github.com/ahmecse/RL-Assignments-3-IITM-CS6700))
+    *   Implemented and evaluated Hierarchical RL techniques (SMDP Q-Learning, Intra-Option Q-Learning) in the Taxi-v3 environment, analyzing the impact of option design.
     *   *Tech Stack: Python, RL (Hierarchical RL, Q-Learning), OpenAI Gym*
     *   *Keywords: hierarchical-rl, smdp, intra-option-q-learning, reinforcement-learning, taxi-v3*
+*   **Dueling-DQN & Monte Carlo REINFORCE (IITM CS6700 PA2)** ([Repo](https://github.com/ahmecse/RL-Assignments-2-IITM-CS6700))
+    *   Implemented and compared Dueling-DQN (Type-1 vs Type-2) and Monte Carlo REINFORCE (with/without baseline) algorithms on Acrobot-v1 and CartPole-v1 environments.
+    *   *Tech Stack: Python, PyTorch, RL (DQN, Policy Gradient), OpenAI Gym*
+    *   *Keywords: dueling-dqn, reinforce, baseline, deep-reinforcement-learning, acrobot-v1, cartpole-v1*
+*   **Temporal Difference Learning (SARSA & Q-Learning) (IITM CS6700 PA1)** ([Repo](https://github.com/ahmecse/RL-Assignments-1-IITM-CS6700))
+    *   Implemented, compared, and analyzed SARSA and Q-Learning algorithms in a custom 10x10 Grid World environment with stochastic transitions and wind effects.
+    *   *Tech Stack: Python, RL (TD Learning, Q-Learning, SARSA), NumPy, Matplotlib*
+    *   *Keywords: temporal-difference, sarsa, q-learning, gridworld, reinforcement-learning*
 ---
 ### NLP (Natural Language Processing)
 
