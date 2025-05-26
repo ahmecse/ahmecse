@@ -31,10 +31,15 @@ Driven by a curiosity to unravel complex systems and build intelligent agents, I
 I am actively seeking challenging R&D opportunities where I can contribute to pioneering AI projects and collaborate with forward-thinking teams.
 
 ---
-
+<table>
+  <tr>
+    <!-- Left column: your Tech Stack -->
+    <td valign="top" width="70%">
+      
 ## 🛠 &nbsp;Tech Stack
 
 <summary><strong>👨‍💻 Programming Languages</strong></summary>
+
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -50,6 +55,7 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 
 
 <summary><strong>🧠 AI, Machine Learning & NLP</strong></summary>
+
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -67,6 +73,7 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 
 <summary><strong>📊 Data Science & Visualization</strong></summary>
 
+
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -81,6 +88,7 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 
 <summary><strong>🧪 Experiment Tracking & ML Tooling</strong></summary>
 
+
 ![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-%23FFBD00.svg?style=for-the-badge&logo=wandb&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-%23000000.svg?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-%234285F4.svg?style=for-the-badge&logo=data-version-control&logoColor=white)
@@ -90,6 +98,7 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 
 
 <summary><strong>🗃️ Databases & Big Data</strong></summary>
+
 
 ![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -103,12 +112,14 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 
 <summary><strong>☁️ Cloud, DevOps & Version Control</strong></summary>
 
+
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Git LFS](https://img.shields.io/badge/Git%20LFS-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 <summary><strong>🌐 Web Development</strong></summary>
+
 
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -118,8 +129,8 @@ I am actively seeking challenging R&D opportunities where I can contribute to pi
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-
+  </tr>
+</table>
 
 ---
 ##  Featured Projects
