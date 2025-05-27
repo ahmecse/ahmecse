@@ -146,12 +146,12 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 
 ### Thesis
 
-* **M.Tech Thesis: DNF-Net: A DL Approach for Advancing Breast Cancer Detection in Histopathology Images.** ([Poster](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning) / [PPT](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning))
+* **M.Tech Thesis: DNF-Net: A DL Approach for Advancing Breast Cancer Detection in Histopathology Images.** ([Poster](https://drive.google.com/file/d/16gaz9gkT-ggVphwndSz60KZalovRUUdW/view?usp=sharing) / [PPT](https://drive.google.com/file/d/1qLj5RzUDcBg-FEKEw5t9hh6_JUN6Aac4/view?usp=sharing))
 
   * Built a magnification-invariant hybrid model that synergizes fuzzy logic—to explicitly handle diagnostic uncertainty ([fuzziness](https://en.wikipedia.org/wiki/Fuzzy_logic))—with deep-learning backbones (Xception, InceptionV3, DenseNet-169) for advanced hierarchical feature extraction, yielding a **5% accuracy gain over SOTA** on [BreakHis](http://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/) and [BACH](https://iciar2018-challenge.grand-challenge.org/) histopathology datasets—robustly validated at 40×, 100×, 200×, and 400× magnifications and across 2-/4-/8-class tasks.
   * *Keywords: deep-learning; fuzzy-logic; magnification-invariance; medical-image-analysis; histopathology; image-classification*
 
-*   **B.Tech Thesis: CXRcovNet: COVID‑19 detection from CXR images using transfer learning approaches.** ([Repo](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning))
+*   **B.Tech Thesis: CXRcovNet: COVID‑19 detection from CXR images using transfer learning approaches.** ([Repo](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning) / [PPT](https://drive.google.com/file/d/13StDLVhOCEUj-7x1Ad0KyLHCI1H2z5PR/view?usp=sharing))
     *   Applied Transfer Learning techniques using pre-trained CNN models to classify COVID-19 from Chest X-Ray (CXR) images.
     *   *Keywords: computer-vision, deep-learning, transfer-learning, covid-19, cxr, image-classification*
       
