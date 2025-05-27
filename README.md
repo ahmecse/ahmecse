@@ -199,10 +199,9 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ### NLP (Natural Language Processing)
 
 *   **Advanced Information Retrieval System (IITM CS6370)** ([Repo](https://github.com/ahmecse/CS6370-NLP-IR-System-Project-IITM) / [Report](https://drive.google.com/file/d/1oc0HhdfTnjuEQa3Boq1MfmySBWtyttWn/view?usp=sharing))
-      *  Built a hybrid search engine combining TF–IDF VSM, LSA, and a BERT-based reranker for top-k retrieval, with end-to-end evaluation (Precision\@k, MAP, nDCG) on the Cranfield and Brown corpora.
-
-      *   *Tech Stack: Python, Scikit-learn, Gensim, PyTorch, Transformers*
-      * *Keywords: Information Retrieval, TF–IDF, LSA, ESA, Word2Vec, BERT Reranking, Evaluation Metrics, NLP, Semantic Search*
+    *  Built a hybrid search engine combining TF–IDF VSM, LSA, and a BERT-based reranker for top-k retrieval, with end-to-end evaluation (Precision\@k, MAP, nDCG) on the Cranfield and Brown corpora.
+    *   *Tech Stack: Python, Scikit-learn, Gensim, PyTorch, Transformers*
+    *   *Keywords: Information Retrieval, TF–IDF, LSA, ESA, Word2Vec, BERT Reranking, Evaluation Metrics, NLP, Semantic Search*
 
 ---
 ### ML (Machine Learning Fundamentals/Theory)
