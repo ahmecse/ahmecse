@@ -146,8 +146,9 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 
 ### Thesis
 
-*   **M.Tech Thesis: DNF‑Net: A Deep Learning Approach for Advancing Breast Cancer Detection in Histopathology Images**
-    *   Engineered DNF‑Net, a hybrid framework integrating symbolic (fuzzy logic) & subsymbolic architectures (Xception, InceptionV3, DenseNet‑169),  on BreakHis & BACH datasets. 
+*   **M.Tech Thesis: DNF‑Net: A Deep Learning Approach for Advancing Breast Cancer Detection in Histopathology Images.** ([Poster](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning) / [PPT](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning))
+    *   Engineered DNF‑Net, a hybrid framework integrating symbolic (fuzzy logic) & subsymbolic architectures (Xception, InceptionV3, DenseNet‑169),  on BreakHis & BACH datasets.
+    *    *   *Keywords: computer-vision, deep-learning, transfer-learning, covid-19, cxr, image-classification* 
 *   **B.Tech Thesis: CXRcovNet: COVID‑19 detection from CXR images using transfer learning approaches.** ([Repo](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning))
     *   Applied Transfer Learning techniques using pre-trained CNN models to classify COVID-19 from Chest X-Ray (CXR) images.
     *   *Keywords: computer-vision, deep-learning, transfer-learning, covid-19, cxr, image-classification*
