@@ -180,12 +180,12 @@ I’m seeking a PhD or research position where I can drive innovative AI project
     *   *Tech Stack: Python, NumPy, Matplotlib, Seaborn, Scikit-learn, Weights & Biases*  
     *   *Keywords: feedforward-NN, backpropagation, optimizers, activation-functions, initialization, regularization, hyperparameter-tuning*
 
-*   **Convolutional Neural Networks (CNN) (IITM CS6910 PA2)** ([Repo](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910) / [W&B Report](https://yourdomain.com/DNF-Net-report.pdf))  
+*   **Convolutional Neural Networks (CNN) (IITM CS6910 PA2)** ([Repo](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910) / [W&B Report](https://api.wandb.ai/links/ahmecse/38stdn7f))  
     *   Built an end-to-end CNN using PyTorch, performing **Bayesian hyperparameter optimization** with W&B sweeps across filter counts, kernel sizes, batch normalization, dropout, and data augmentation strategies. Explored model interpretability through filter visualization and guided backpropagation.
     *   *Tech Stack: Python, PyTorch, OpenCV, Weights & Biases*
     *   *Keywords: CNN, Hyperparameter Optimization, Bayesian Optimization, Data Augmentation, Filter Visualization, Guided Backpropagation, Interpretability, W&B*
 
-*   **Sequence-to-Sequence Learning (RNN) (IITM CS6910 PA3)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910) / [W&B Report](https://yourdomain.com/DNF-Net-report.pdf))  
+*   **Sequence-to-Sequence Learning (RNN) (IITM CS6910 PA3)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910) / [W&B Report](https://api.wandb.ai/links/ahmecse/cveosz05))  
      *   Developed and evaluated sequence-to-sequence models (vanilla RNN, LSTM, GRU) with and without attention mechanisms for English-to-Malayalam transliteration (Aksharantar Dataset), analyzing the impact of architectural choices and attention on translation quality.
       *   *Tech Stack: Python, PyTorch, Weights & Biases*
       *   *Keywords: Seq2Seq, Attention Mechanisms, RNN, LSTM, GRU, Transliteration, Encoder-Decoder, Attention Heatmaps, NLP*
