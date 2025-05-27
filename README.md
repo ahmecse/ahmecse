@@ -77,7 +77,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 
 
 
-<summary><strong>🧠 AI, Machine Learning & NLP</strong></summary>
+<summary><strong>🧠 DL, ML & NLP</strong></summary>
 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
