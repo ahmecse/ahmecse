@@ -146,12 +146,15 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 
 ### Thesis
 
-*   **M.Tech Thesis: DNF‑Net: A Deep Learning Approach for Advancing Breast Cancer Detection in Histopathology Images.** ([Poster](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning) / [PPT](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning))
-    *   Engineered DNF‑Net, a hybrid framework integrating symbolic (fuzzy logic) & subsymbolic architectures (Xception, InceptionV3, DenseNet‑169),  on BreakHis & BACH datasets.
-    *    *   *Keywords: computer-vision, deep-learning, transfer-learning, covid-19, cxr, image-classification* 
+* **M.Tech Thesis: DNF-Net: A Deep Learning Approach for Advancing Breast Cancer Detection in Histopathology Images.** ([Poster](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning) / [PPT](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning))
+
+  * Built a magnification-invariant hybrid model that synergizes fuzzy logic—to explicitly handle diagnostic uncertainty ([fuzziness](https://en.wikipedia.org/wiki/Fuzzy_logic))—with deep-learning backbones (Xception, InceptionV3, DenseNet-169) for advanced hierarchical feature extraction, yielding a **5% accuracy gain over SOTA** on [BreakHis](http://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/) and [BACH](https://iciar2018-challenge.grand-challenge.org/) histopathology datasets—robustly validated at 40×, 100×, 200×, and 400× magnifications and across 2-/4-/8-class tasks.
+  * *Keywords: deep-learning; fuzzy-logic; magnification-invariance; medical-image-analysis; histopathology; image-classification*
+
 *   **B.Tech Thesis: CXRcovNet: COVID‑19 detection from CXR images using transfer learning approaches.** ([Repo](https://github.com/ahmecse/BSc-Thesis-COVID19-CXR-TransferLearning))
     *   Applied Transfer Learning techniques using pre-trained CNN models to classify COVID-19 from Chest X-Ray (CXR) images.
     *   *Keywords: computer-vision, deep-learning, transfer-learning, covid-19, cxr, image-classification*
+      
 ---
 
 ### RL (Reinforcement Learning)
@@ -196,7 +199,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ### NLP (Natural Language Processing)
 
 *   **Advanced Information Retrieval System (IITM CS6370)** ([Code](https://github.com/ahmecse/CS6370-NLP-IR-System-Project-IITM) / [Report](https://drive.google.com/file/d/1oc0HhdfTnjuEQa3Boq1MfmySBWtyttWn/view?usp=sharing))
-      *   Designed and implemented a sophisticated hybrid IR pipeline combining traditional (VSM, LSA) and modern (BERT-based reranking) techniques to optimize retrieval accuracy and efficiency on standard corpora (Brown, Cranfield).
+      *   Implemented hybrid IR pipeline combining traditional (VSM, LSA) and modern (BERT-based reranking) techniques to optimize retrieval accuracy and efficiency on standard corpora (Brown, Cranfield).
       *   *Tech Stack: Python, Scikit-learn, Gensim, PyTorch, Transformers*
       *   *Keywords: Information Retrieval, VSM, LSA, BERT Reranking, Hybrid Systems, NLP, Search*
 
