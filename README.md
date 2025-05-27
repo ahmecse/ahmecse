@@ -228,7 +228,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 
 ## Certificates & Continuous Learning
 
-| Certificate/Specialization                           | Provider           | Date Completed | Link                                                         |
+| Certificate/Specialization                           | Provider           | Date Completed | Link ID                                                          |
 | :--------------------------------------------------- | :----------------- | :------------- | :----------------------------------------------------------- |
 | Advanced Large Language Model Agents                 | UC Berkeley        | May 2025       | Soon, May 31, 2025                                       |
 | Linguistic Linked Data – Advanced Topics             | German UDS Academy | May 2025       | [View Certificate](https://apps.german-uds.academy/learner-dashboard/) |
