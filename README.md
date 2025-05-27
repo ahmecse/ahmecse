@@ -90,7 +90,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ![LightGBM](https://img.shields.io/badge/LightGBM-%2300B2EE.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
 
 
-<summary><strong>🌐 Web Development</strong></summary>
+<summary><strong>🌐 Web Dev</strong></summary>
 
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
