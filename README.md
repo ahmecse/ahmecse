@@ -172,7 +172,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
     *   *Tech Stack: Python, PyTorch, RL (DQN, Policy Gradient), OpenAI Gym*
     *   *Keywords: dueling-dqn, reinforce, baseline, deep-reinforcement-learning, acrobot-v1, cartpole-v1*
 *   **Temporal Difference Learning (SARSA & Q-Learning) (IITM CS6700 PA1)** ([Repo](https://github.com/ahmecse/RL-Assignments-1-IITM-CS6700))
-    *   Implemented, compared, and analyzed foundational TD algorithms (SARSA and Q-Learning) in a custom 10x10 Grid World with stochastic transitions and wind effects, building a strong base in core RL concepts.
+    *   Implemented and compared TD algorithms (SARSA and Q-Learning) in a custom 10x10 Grid World with stochastic transitions and wind effects, building a strong base in core RL concepts.
     *   *Tech Stack: Python, RL (TD Learning, Q-Learning, SARSA), NumPy, Matplotlib*
     *   *Keywords: Temporal Difference, SARSA, Q-Learning, Gridworld, Reinforcement Learning, Stochastic Environments*
 ---
@@ -185,7 +185,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
     *   *Keywords: feedforward-NN, backpropagation, optimizers, activation-functions, initialization, regularization, hyperparameter-tuning*
 
 *   **Convolutional Neural Networks (CNN) (IITM CS6910 PA2)** ([Repo](https://github.com/ahmecse/DL-Assignments-2-IITM-CS6910) / [W&B Report](https://api.wandb.ai/links/ahmecse/38stdn7f))  
-    *   Built an end-to-end CNN using PyTorch, performing **Bayesian hyperparameter optimization** with W&B sweeps across filter counts, kernel sizes, batch normalization, dropout, and data augmentation strategies. Explored model interpretability through filter visualization and guided backpropagation.
+    *   A two-fold project—(i) trained a CNN from scratch in PyTorch with Bayesian hyperparameter optimization via W&B sweeps (tuning filters, kernel sizes, batch norm, dropout, augmentation), including filter visualization and guided backpropagation for interpretability, and (ii) fine-tuned a pre-trained CNN model for performance benchmarking and comparison.
     *   *Tech Stack: Python, PyTorch, OpenCV, Weights & Biases*
     *   *Keywords: CNN, Hyperparameter Optimization, Bayesian Optimization, Data Augmentation, Filter Visualization, Guided Backpropagation, Interpretability, W&B*
 
