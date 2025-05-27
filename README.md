@@ -198,7 +198,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 
 ### NLP (Natural Language Processing)
 
-*   **Advanced Information Retrieval System (IITM CS6370)** ([Code](https://github.com/ahmecse/CS6370-NLP-IR-System-Project-IITM) / [Report](https://drive.google.com/file/d/1oc0HhdfTnjuEQa3Boq1MfmySBWtyttWn/view?usp=sharing))
+*   **Advanced Information Retrieval System (IITM CS6370)** ([Repo](https://github.com/ahmecse/CS6370-NLP-IR-System-Project-IITM) / [Report](https://drive.google.com/file/d/1oc0HhdfTnjuEQa3Boq1MfmySBWtyttWn/view?usp=sharing))
       *   Implemented hybrid IR pipeline combining traditional (VSM, LSA) and modern (BERT-based reranking) techniques to optimize retrieval accuracy and efficiency on standard corpora (Brown, Cranfield).
       *   *Tech Stack: Python, Scikit-learn, Gensim, PyTorch, Transformers*
       *   *Keywords: Information Retrieval, VSM, LSA, BERT Reranking, Hybrid Systems, NLP, Search*
