@@ -60,9 +60,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 
       
 ## 🛠 &nbsp;Tech Stack
-
-<summary><strong>👨‍💻 Programming Languages</strong></summary>
-
+### 👨‍💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -74,11 +72,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 
-
-
-
-<summary><strong>🧠 DL, ML & NLP</strong></summary>
-
+### 🧠 DL, ML & NLP
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -89,8 +83,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ![XGBoost](https://img.shields.io/badge/XGBoost-%23FF6600.svg?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-%2300B2EE.svg?style=for-the-badge&logo=lightgbm&logoColor=white)
 
-
-<summary><strong>🌐 Web Dev</strong></summary>
+### 🌐 Web Dev
 
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -100,9 +93,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-<summary><strong>📊 Data Science & Visualization</strong></summary>
-
+### 📊 Data Science & Visualization
 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -113,10 +104,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SPSS](https://img.shields.io/badge/SPSS-%230047AB.svg?style=for-the-badge&logo=ibm&logoColor=white)
 
-
-<summary><strong>🗃️ Databases & Big Data</strong></summary>
-
-
+### 🗃️ Databases & Big Data
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -124,21 +112,17 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-<summary><strong>🧪 Experiment Tracking & ML Tooling</strong></summary>
-
+### 🧪 Experiment Tracking & ML Tooling
 
 ![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-%23FFBD00.svg?style=for-the-badge&logo=wandb&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-%23000000.svg?style=for-the-badge&logo=mlflow&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-%234285F4.svg?style=for-the-badge&logo=data-version-control&logoColor=white)
 
-
-<summary><strong>☁️ Cloud, DevOps & Version Control</strong></summary>
-
+### ☁️ Cloud, DevOps & Version Control
 
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Git LFS](https://img.shields.io/badge/Git%20LFS-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 ##  Featured Projects
 
@@ -186,16 +170,13 @@ I’m seeking a PhD or research position where I can drive innovative AI project
     *   A two-fold project—(i) trained a CNN from scratch in PyTorch with Bayesian hyperparameter optimization via W&B sweeps (tuning filters, kernel sizes, batch norm, dropout, augmentation), including filter visualization and guided backpropagation for interpretability, and (ii) fine-tuned a pre-trained CNN model for performance benchmarking and comparison.
     *   *Tech Stack: Python, PyTorch, OpenCV, Weights & Biases*
     *   *Keywords: CNN, Hyperparameter Optimization, Bayesian Optimization, Data Augmentation, Filter Visualization, Guided Backpropagation, Interpretability, W&B*
-
 *   **Sequence-to-Sequence Learning (RNN) (IITM CS6910 PA3)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910) / [W&B Report](https://api.wandb.ai/links/ahmecse/cveosz05))  
      *   Developed and evaluated sequence-to-sequence models (vanilla RNN, LSTM, GRU) with and without attention mechanisms for English-to-Malayalam transliteration (Aksharantar Dataset), analyzing the impact of architectural choices and attention on translation quality.
       *   *Tech Stack: Python, PyTorch, Weights & Biases*
       *   *Keywords: Seq2Seq, Attention Mechanisms, RNN, LSTM, GRU, Transliteration, Encoder-Decoder, Attention Heatmaps, NLP*
 
 ---
-
 ### NLP (Natural Language Processing)
-
 *   **Advanced Information Retrieval System (IITM CS6370)** ([Repo](https://github.com/ahmecse/CS6370-NLP-IR-System-Project-IITM) / [Report](https://drive.google.com/file/d/1oc0HhdfTnjuEQa3Boq1MfmySBWtyttWn/view?usp=sharing))
     *  Built a hybrid search engine combining TF–IDF VSM, LSA, and a BERT-based reranker for top-k retrieval, with end-to-end evaluation (Precision\@k, MAP, nDCG) on the Cranfield and Brown corpora.
     *   *Tech Stack: Python, Scikit-learn, Gensim, PyTorch, Transformers*
