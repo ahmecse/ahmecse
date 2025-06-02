@@ -18,9 +18,6 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmecse/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="mailto:ahmecse@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -32,6 +29,9 @@
   </a>
   <a href="https://ahmecse.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
+    <a href="https://www.linkedin.com/in/ahmecse/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <img src="https://komarev.com/ghpvc/?username=ahmecse&label=Profile%20Views&color=4B79FF&style=for-the-badge" alt="Profile Views">
   <img src="https://img.shields.io/github/followers/ahmecse?label=Followers&style=for-the-badge&color=4B79FF&logo=github&logoColor=white" alt="GitHub Followers">
