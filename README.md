@@ -185,7 +185,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 
 ---
 ### ML (Machine Learning Fundamentals/Theory)
-* **Cereals Recommendation System** ([Repo](https://github.com/ahmecse/Recommendataion-System) / [Report](https://github.com/ahmecse/Recommendataion-System/blob/main/ID_Report_Final.pdf) / [Presentation](https://github.com/ahmecse/Recommendataion-System/blob/main/IDA_Presentation.pdf))  
+* **Cereals Recommendation System** ([Repo](https://github.com/ahmecse/Recommendataion-System) / [Report](https://github.com/ahmecse/Recommendataion-System/blob/main/ID_Report_Final.pdf) / [PPT](https://github.com/ahmecse/Recommendataion-System/blob/main/IDA_Presentation.pdf))  
   * Built a clustering-based recommendation engine using K-Means (Jaccard/Euclidean) and Hierarchical clustering (Ward linkage), validated with elbow method and silhouette scores.  
   * *Tech Stack: Python, Scikit-learn, Pandas, Matplotlib*  
   * *Keywords: Recommendation Systems, Clustering Algorithms, Cluster Validation, Unsupervised Learning, Pattern Recognition*
@@ -224,6 +224,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 | The Complete Python Bootcamp                         | Udemy, Inc.        | Aug 2023       | [View Certificate](https://udemy-certificate.s3.amazonaws.com/pdf/UC-8a555280-76c5-4ff8-a39a-74a59685d676.pdf) |
 | Mathematics for ML & DS Specialization               | DeepLearning.AI    | Jun 2023       | [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/5766F58B8Y4F) |
 | Machine Learning Specialization                      | DeepLearning.AI    | Jan 2023       | [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UQT94APQN4N7) |
+| Google Digital Marketing & E-commerce Specialization                     |  Google     | Jan 2023       | [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/XB2N5TBVPPNH) |
 | Google Data Analytics Specialization                 | Google             | Apr 2022       | [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/P32YCMSZJL9Y) |
 
 ---
