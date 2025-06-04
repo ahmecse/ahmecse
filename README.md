@@ -192,6 +192,10 @@ I’m seeking a PhD or research position where I can drive innovative AI project
   * Developed cluster-based Cereals recommendation system , implementing K-Means (Jaccard/Euclidean distances) and Hierarchical clustering (ward linkage) with cluster validation using elbow method and silhouette scores.  
   * *Tech Stack: Python, Scikit-learn, Pandas, Matplotlib*  
   * *Keywords: Recommendation Systems, Clustering Algorithms, Cluster Validation, Unsupervised Learning, Pattern Recognition*
+* **House Price Prediction (Kaggle Competition)** ([Repo](https://github.com/ahmecse/Advanced-Regression-for-House-Price-Prediction))  
+  * Secured top 35% ranking (1427/4264) in advanced regression challenge using ensemble methods (XGBoost/Random Forest) with regularization (Lasso/Ridge/Elastic Net) and SVM kernel optimization, achieving 0.13 RMSE through GridSearchCV/RandomizedSearch hyperparameter tuning.  
+  * *Tech Stack: Python, Scikit-learn, XGBoost, Pandas, NumPy*  
+  * *Keywords: Regression Analysis, Hyperparameter Optimization, Regularization Techniques, Model Stacking, Kaggle Competition*
 *   **Mathematical Essays on Core ML Algorithms**
     *   Authored a series of mathematical essays (formatted in IEEE style using LaTeX) dissecting the theoretical underpinnings, derivations, and applications of fundamental ML algorithms:
         *   [Linear Regression](https://github.com/ahmecse/A-Mathematical-essay-on-linear-regression)
