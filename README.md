@@ -126,7 +126,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ---
 ##  Featured Projects
 
-### Thesis
+### 🎓 Thesis <sub>(Deep Learning · Computer Vision · Healthcare)</sub>
 
 * **M.Tech Thesis: DNF-Net: A DL Approach for Advancing Breast Cancer Detection in Histopathology Images.** ([Poster](https://drive.google.com/file/d/16gaz9gkT-ggVphwndSz60KZalovRUUdW/view?usp=sharing) / [PPT](https://drive.google.com/file/d/1qLj5RzUDcBg-FEKEw5t9hh6_JUN6Aac4/view?usp=sharing))
 
