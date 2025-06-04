@@ -207,7 +207,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 ---
 ##  Publications
 *   **Beyond the Horizon: Exploring the Impact of AI on Early Cancer Detection & Diagnosis — A Comprehensive Review**
-    *   *Journal:* Computers in Biology and Medicine (Impact Factor: 7.7)
+    *   *Journal:* Computers in Biology and Medicine
     *   *Submission Date:* January 2025
     *   *Manuscript ID:* CIBM-D-25-00543
     *   *Status:* Under Review
