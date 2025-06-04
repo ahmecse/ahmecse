@@ -181,6 +181,10 @@ I’m seeking a PhD or research position where I can drive innovative AI project
     *  Built a hybrid search engine combining TF–IDF VSM, LSA, and a BERT-based reranker for top-k retrieval, with end-to-end evaluation (Precision\@k, MAP, nDCG) on the Cranfield and Brown corpora.
     *   *Tech Stack: Python, Scikit-learn, Gensim, PyTorch, Transformers*
     *   *Keywords: Information Retrieval, TF–IDF, LSA, ESA, Word2Vec, BERT Reranking, Evaluation Metrics, NLP, Semantic Search*
+* **Dell Tweets Sentiment Analysis** ([kaggle](https://www.kaggle.com/code/ahmecse/sentiment-analysis-a-comprehensive-nlp-guide))  
+  * Performed end-to-end NLP on 25k Dell tweets (2022), including text cleaning (tokenization, lemmatization, stop-word filtering), TF-IDF vectorization, word cloud visualization, hybrid CNN-LSTM model training (cross-entropy loss, Adam optimizer), and real-time deployment via Streamlit.  
+  * *Tech Stack: Python, NLTK, Scikit-learn, TensorFlow/Keras, Streamlit*  
+  * *Keywords: Keywords: Sentiment Analysis, NLP, TF-IDF, CNN-LSTM, Word Cloud, Text Preprocessing, Streamlit Deployment*
 
 ---
 ### ML (Machine Learning Fundamentals/Theory)
