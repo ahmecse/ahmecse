@@ -188,7 +188,10 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 
 ---
 ### ML (Machine Learning Fundamentals/Theory)
-
+* **Cereals Recommendation System** ([Repo](https://github.com/ahmecse/Recommendataion-System) / [Report](https://github.com/ahmecse/Recommendataion-System/blob/main/ID_Report_Final.pdf) / [Presentation](https://github.com/ahmecse/Recommendataion-System/blob/main/IDA_Presentation.pdf))  
+  * Developed cluster-based Cereals recommendation system , implementing K-Means (Jaccard/Euclidean distances) and Hierarchical clustering (ward linkage) with cluster validation using elbow method and silhouette scores.  
+  * *Tech Stack: Python, Scikit-learn, Pandas, Matplotlib*  
+  * *Keywords: Recommendation Systems, Clustering Algorithms, Cluster Validation, Unsupervised Learning, Pattern Recognition*
 *   **Mathematical Essays on Core ML Algorithms**
     *   Authored a series of mathematical essays (formatted in IEEE style using LaTeX) dissecting the theoretical underpinnings, derivations, and applications of fundamental ML algorithms:
         *   [Linear Regression](https://github.com/ahmecse/A-Mathematical-essay-on-linear-regression)
