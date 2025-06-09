@@ -168,7 +168,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
     *   *Tech Stack: Python, PyTorch, OpenCV, Weights & Biases*
     *   *Keywords: CNN, Hyperparameter Optimization, Bayesian Optimization, Data Augmentation, Filter Visualization, Guided Backpropagation, Interpretability, W&B*
 *   **Sequence-to-Sequence Learning (RNN) (IITM CS6910 PA3)** ([Repo](https://github.com/ahmecse/DL-Assignments-3-IITM-CS6910) / [W&B Report](https://api.wandb.ai/links/ahmecse/cveosz05))  
-     *   Developed and evaluated sequence-to-sequence models (vanilla RNN, LSTM, GRU) with and without attention mechanisms for English-to-Malayalam transliteration [Aksharantar Dataset](https://huggingface.co/datasets/ai4bharat/Aksharantar), analyzing the impact of architectural choices and attention on translation quality.
+     *   The project is fourfold: (i) model seq2seq tasks using RNNs, (ii) compare architectures including vanilla RNN, LSTM, and GRU, (iii) explore how attention mechanisms address the limitations of basic seq2seq models, and (iv) visualize component interactions within RNN-based models using the [Aksharantar Dataset](https://huggingface.co/datasets/ai4bharat/Aksharantar) for English-to-Malayalam transliteration.
       *   *Tech Stack: Python, PyTorch, Weights & Biases*
       *   *Keywords: Seq2Seq, Attention Mechanisms, RNN, LSTM, GRU, Transliteration, Encoder-Decoder, Attention Heatmaps, NLP*
 
