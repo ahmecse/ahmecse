@@ -139,7 +139,7 @@ I’m seeking a PhD or research position where I can drive innovative AI project
 
 ### Advanced LLM Agents (Advanced Large Language Model Agents (CS294))
 
-*   **Reinforcement Fine-Tuning LLMs with GRPO** ([Repo](https://github.com/ahmecse/Reinforcement-Fine-Tuning-LLMs-with-GRPO))
+*   **Reinforcement Fine-Tuning LLMs with GRPO (UC Berkeley, PA1)** ([Repo](https://github.com/ahmecse/Reinforcement-Fine-Tuning-LLMs-with-GRPO))
      *   Investigated the efficacy of GRPO for RFT of LLMs, adapting models for complex reasoning and strategic tasks (demonstrated via a [**Wordle-style game**](https://en.wikipedia.org/wiki/Wordle) with Qwen 2.5 7B).
     *   *Tech Stack: Python, PyTorch, RL, LLMs, GRPO*
     *   *Keywords: rlft, grpo, llms, reinforcement-learning, fine-tuning, Reward functions, Reward hacking, Calculating loss in GRPO*
