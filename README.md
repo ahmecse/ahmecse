@@ -137,12 +137,15 @@ I’m seeking a PhD or research position where I can drive innovative AI project
       
 ---
 
-### RL (Reinforcement Learning)
+### Advanced LLM Agents (Advanced Large Language Model Agents (CS294))
 
 *   **Reinforcement Fine-Tuning LLMs with GRPO** ([Repo](https://github.com/ahmecse/Reinforcement-Fine-Tuning-LLMs-with-GRPO))
      *   Investigated the efficacy of GRPO for RFT of LLMs, adapting models for complex reasoning and strategic tasks (demonstrated via a [**Wordle-style game**](https://en.wikipedia.org/wiki/Wordle) with Qwen 2.5 7B).
     *   *Tech Stack: Python, PyTorch, RL, LLMs, GRPO*
     *   *Keywords: rlft, grpo, llms, reinforcement-learning, fine-tuning, Reward functions, Reward hacking, Calculating loss in GRPO*
+
+### RL (Reinforcement Learning)
+
 *   **Hierarchical Reinforcement Learning (IITM CS6700 PA3)** ([Repo](https://github.com/ahmecse/RL-Assignments-3-IITM-CS6700))
     *   Implemented and evaluated Hierarchical RL techniques (SMDP Q-Learning, Intra-Option Q-Learning) in the Taxi-v3 environment, analyzing the impact of option design on learning efficiency and policy structure.
     *   *Tech Stack: Python, RL (Hierarchical RL, Q-Learning), OpenAI Gym*
